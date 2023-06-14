@@ -1,0 +1,640 @@
+/* The title of the client 360 action for additional information */
+"client360.actions.additional-information.title" = "DATOS DEL CLIENTE";
+
+/* Title for the client 360 details subview navigation bar */
+"client360.details.navigationBar.title" = "INFORMACIÓN ADICIONAL";
+
+/* The title for the form section header for 'Notes' */
+"client360.notesAndPreferences.notes.title" = "Notas";
+
+/* The title of the notes and preferences view controller */
+"client-form.notes-and-preferences.title" = "NOTAS Y PREFERENCIAS";
+
+/* The title for the 'Add an event' action sheet */
+"client360.actions.add-an-event.title" = "Añadir un contacto en tienda";
+
+/* The title of the edit client scene in the client information menu */
+"client-information.actions.edit.title" = "Editar cliente";
+
+/* The title of the create client in the client360 menu */
+"clients.create-client.navigation-bar.title" = "Crear cliente";
+
+/* The title for the preferences section in more information form */
+"client-information.section.preferences.title" = "PREFERENCIAS";
+"" = "";
+/* The title for notes section in notes and preferences form */
+"client-information.section.additional-information.title" = "Notas";
+
+/* The create client title button in the clients menu */
+"clients.actions.create-client.title" = "Crear cliente";
+
+/* Title for the client 360 edit details subview */
+"client360.details.edit.title" = "Editar la información del cliente";
+
+/* Title for the navigation bar save button */
+"general.navigationBar.trailing.save" = "Guardar";
+
+/* Title for the navigation bar cancel button */
+"general.navigationBar.leading.cancel" = "Cancelar";
+
+
+"generic-form.field.date.clear-button.title" = "Borrar";
+
+/* The title of edit's prefs view controller" */
+"client-form.notes-and-preferences.edit-prefs.title" = "EDITAR PREFERENCIAS";
+
+/* The title of edit's notes view controller */
+"client-form.notes-and-preferences.edit-notes.title" = "EDITAR NOTAS";
+
+/* The title for the comment field in timeline visit form */
+"timeline-visit.fields.comment.title" = "Comentarios";
+
+/* The placeHolder for the comment in timeline visit form */
+"timeline-visit.fields.comment.placeHolder" = "Escriba su comentario aquí";
+
+/* The title for trailing navigation bar add button in timeline visit form */
+"timeline-visit.navigationBar.trailing.add" = "Añadir";
+
+/* The title for the date field in timeline visit form */
+"timeline-visit.fields.date.title" = "Fecha";
+
+/* The placeHolder for the date field in timeline visit form */
+"timeline-visit.fields.date.placeHolder" = "ELEGIR UNA FECHA";
+
+"setting.my-profile.field.store" = "Almacenar";
+"store.selection.viewController.rightBarItem" = "Hecho";
+
+/* Light mode title */
+"theme.appearance.light" = "Claro";
+
+/* Dark mode title */
+"theme.appearance.dark" = "Oscuro";
+
+/* The title of the client lists screen */
+"client-lists.navigationBar.title" = "KENZO WORLD";
+
+"sort.ascending.title" = "%@ (Ascendente)";
+"sort.descending.title" = "%@ (Descendente)";
+
+/* Timeline actions */
+"task.field.type.visit" = "Almacenar visita";
+"task.field.type.booking" = "Reserva del cliente";
+"task.field.type.preOrder" = "Preordenar";
+"task.field.type.alterationsTailoring" = "Modificaciones y reparaciones";
+"task.field.type.afterSales" = "Post-venta";
+"task.field.type.gift" = "Regalo";
+"task.field.type.instorePickup" = "Recogida en tienda";
+"task.field.type.delivery" = "Entrega";
+
+/* Timeline Filter */
+/* Field for the transaction filter type */
+"client360.timeline.filters.transaction" = "Transacciones";
+"client360.timeline.filters.refund" = "";
+"client360.timeline.filters.outreaches" = "Actividades de divulgación";
+"client360.timeline.filters.nps" = "NPS";
+"client360.timeline.filters.offlineContact" = "Contacto fuera de línea";
+"client360.timeline.filters.cases" = "Atención al cliente";
+
+/* Title for the action filter type */
+"client360.timeline.filters.title" = "Filtro";
+
+/* Outreach channels */
+"client360.timeline.filters.outreach" = "Actividad de divulgación";
+"client360.timeline.title.channels" = "Canales";
+"client360.timeline.filters.whatsapp" = "WhatsApp";
+"client360.timeline.filters.email" = "Correo electrónico";
+"client360.timeline.filters.sms" = "SMS";
+"client360.timeline.filters.wechat" = "Wechat";
+"client360.timeline.filters.line" = "Line";
+"client360.timeline.filters.kakao" = "Kakao";
+"client360.timeline.filters.phone" = "Phone";
+
+
+/* Client360 Header */
+"client360.header.mainStore" = "TIENDA PRINCIPAL";
+"client360.header.advisorName" = "ASSOCIADO DE VENTAS";
+"client360.header.lastContacted" = "ÚLTIMO CONTACTO";
+"client360.header.lastPurchase" = "ÚLTIMA COMPRA";
+"client360.header.lifetimevalue" = "VALOR DE POR VIDA";
+
+/* Client360 Timeline */
+"client360.timeline.transactions.title" = "Detalles de la transacción";
+"client360.timeline.transactions.color" = "Color";
+"client360.timeline.transactions.size" = "Tamaño";
+"client360.timeline.transactions.unitPrice" = "Precio por unidad";
+"client360.timeline.transactions.quantity" = "elementos";
+"client360.timeline.transactions.delivery" = "Entrega";
+"client360.timeline.transactions.subtotal" = "Subtotal";
+"client360.timeline.transactions.taxes" = "Impuestos";
+"client360.timeline.transactions.duties" = "Impuestos";
+"client360.timeline.transactions.total" = "Total";
+"client360.timeline.transactions.section.billingAddress" = "Dirección de facturación";
+"client360.timeline.transactions.section.deliveryAddress" = "Dirección de entrega";
+"client360.timeline.transactions.section.clientInformation" = "Información del cliente";
+
+/* KPIs */
+"kpi.24monthsTurnover" = "ventas 24 meses";
+"kpi.24monthsTransactions" = "transacciones 24 meses";
+"kpi.NPSlatestScore" = "NPS";
+
+/* Client Details */
+"client.details.section.personalDetails" = "Personales";
+"client.details.field.optin" = "Optar por la inclusión/exclusión";
+"client.details.field.name" = "Nombre";
+"client.details.field.name2" = "Apellido (local)";
+"client.details.field.birthdate" = "Cumpleaños";
+"client.details.field.age" = "Edad";
+"client.details.field.gender" = "Género";
+"client.details.field.countryResidence" = "País de residencia";
+"client.details.section.contact-information" = "Contacto";
+"client.details.contact.field.personEmail" = "Correo electrónico";
+"client.details.contact.field.phone" = "Número de teléfono";
+"client.details.contact.address" = "Dirección";
+"client.details.contact.field.street1" = "Calle1";
+"client.details.contact.field.street2" = "Calle2";
+"client.details.contact.field.street3" = "Calle3";
+"client.details.contact.field.state" = "Código del Estado";
+"client.details.contact.field.postalCode" = "Código postal";
+"client.details.contact.field.city" = "Ciudad";
+"client.details.contact.field.countrycode" = "País";
+"client.details.section.optin" = "Opt in/out";
+"client.contact.field.optinPhoneInstantMessage" = "Mensaje instantáneo";
+"client.contact.field.optinPhoneSMS" = "Móvil";
+"client.contact.field.optinEmail" = "Correo electrónico";
+"client.contact.field.mobileReachable" = "Se puede contactar por teléfono";
+"client.contact.field.mobileOptin" = "Mobile Opt-in";
+"client.contact.field.emailReachable" = "Se puede contactar por correo electrónico";
+"client.contact.field.emailOptin" = "Email Opt-in";
+
+/* Available Sorts */
+"clientlists.sorts.name" = "Alfabético";
+"clientlists.sorts.turnover24months" = "24 Meses de euros de volumen de negocio";
+"clientlists.sorts.lastPurchaseDate" = "Última compra";
+"clientlists.sorts.24Mtransactions" = "24 Meses de transacciones";
+"clientlists.sorts.lastContactedDate" = "Fecha del último contacto";
+"clientlists.sorts.segmentation" = "Segmentación";
+"clientlist.header.personal-list" = "Lista personal";
+"clientlists.firstname" = "Nombre";
+"clientlists.lastname" = "Apellido";
+"clientlists.segmentation" = "Segmentación";
+"lastContactedDate" = "Fecha del último contacto";
+
+/* Notes & Preferences */
+"client.preferences.field.hobbies" = "Aficiones e intereses";
+"client.preferences.field.preferredCategories" = "Categorías Preferidas";
+"client.preferences.field.brands" = "Marcas de Moda Preferidas";
+"client.preferences.field.purchaseBehavior" = "Comportamiento de Compra";
+"client.preferences.field.occupation" = "Ocupación";
+"client.notes.header" = "Notas";
+"client.notes.field.date" = "Fecha";
+"client.notes.field.salesAssociate" = "Asociado de ventas";
+"client.notes.field.store" = "Almacenar";
+"client.notes.field.note" = "Nota";
+"client.notes.disclaimer.title" = "Descargo de responsabilidad";
+"client.notes.disclaimer.label" = "Todas las notas añadidas deben cumplir con las normas de la DGRP";
+"note.instructions.subtitle" = "INTRODUCIR UNA NUEVA NOTA";
+
+/* The text to display as a title when we know the name of the client we're contacting */
+"contact client name" = "SELECCIONAR UN CANAL";
+
+"button.create-note.title" = "CREAR NOTA";
+
+/* Title for edit note button */
+"button.edit-note.title" = "Editar";
+
+/* Title for the edit note form */
+"client360.note-form.edit.navigationBar.title" = "EDITAR NOTA";
+
+/* Title for the cancel edit note button */
+"client360.note-form.navigationBar.cancel" = "Cancelar";
+
+/* Title for the save note button */
+"client360.note-form.navigationBar.save" = "Hecho";
+
+/* Title for the create note form */
+"client360.note-form.create.navigationBar.title" = "CREAR NOTA";
+
+/* The client store subtitle */
+"client.field.mainStore" = "Tienda principal";
+
+/* Title for the contact disabled button in Client 360 view */
+"client360.contact.button-disabled.title" = "Ningún canal ha optado por la inclusión";
+
+"generic-form.save.error.message" = "%@";
+
+"client360.note-form.delete.confirmation.title" = "Eliminar nota";
+"client360.note-form.delete.confirmation.message" = "¿Desea eliminar esta nota?";
+"client360.note-form.delete.continue.button.title" = "Sí";
+"client360.note-form.delete.error.message" = "Ha fallado la eliminación de la nota. Por favor, inténtelo de nuevo.";
+"client360.note-form.delete.error.title" = "No se ha podido eliminar la nota";
+
+"user.firstname" = "Nombre";
+"user.lastname" = "Apellido";
+"user.phone" = "Número de teléfono";
+"user.email" = "Correo electrónico";
+"user.store" = "Almacenar";
+"user.contactblock" = "Estamos aquí para ayudar y responder a cualquier pregunta que pueda tener. Envíe un correo electrónico al equipo de CRM en";
+"filter.clientAdvisors" = "Asociado de ventas";
+"filters.timeSpan" = "Lapso";
+"client.details.field.firstname" = "Nombre";
+"client.details.field.firstname2" = "Nombre (local)";
+
+/* Title for the client 360 details edit button */
+"client360.details.edit-button.title" = "Editar";
+
+"Featured lists" = "LISTAS PERMANENTES";
+"My lists" = "Mis listas";
+
+
+/* Product Catalogue */
+"productcatalogue.productInformation" = "Información sobre el producto";
+"productcatalogue.compositionCare" = "Composición y cuidados";
+"productcatalogue.sizeFit" = "Siza y ajuste";
+
+"toastMessages.clientListCreated.message" = "Personal list created";
+
+/* The tab icon title for Clients */
+"tab.clients.title" = "CLIENTES";
+/* The tab icon title for Dashboard */
+"tab.dashboard.title" = "CUADRO DE MANDO";
+/* The tab icon title for Settings */
+"tab.settings.title" = "AJUSTES";
+/* Title for done state in the edit button */
+"button.edit.done.title" = "Acabado";
+/* Title of the search bar placeholder in client lists when searching a specific member's list. */
+"client-list.members.search.placeholder" = "Buscar";
+/* Title for the newsletter filter type */
+"client360.timeline.filters.newsletter.title" = "Boletín";
+/* Title of the create list button */
+"client-list.create-list.button.title" = "CREAR LISTA";
+/* Title for the name field in the form */
+"list.form-field.list-name.title" = "NOMBRE DE LA LISTA";
+/* Title for alert button to show confirmation of removing a client from a list */
+"client-list.delete-confirmation.button.title" = "Eliminar";
+/* Title for alert to show delete confirmation */
+"client-list.delete-confirmation.title" = "¿Quitar Cliente?";
+/* Title for the client search navigation bar when accessed from the client list form */
+"clients.search.form.navigationBar.title" = "SELECCIONAR CLIENTES";
+/* Title of the delete list button */
+"list.edit.button.delete" = "Borrar";
+/* Title for confirmation alert for deleting a client list */
+"client-list.delete-list.alert.confirm.title" = "¿Borrar esta lista?";
+/* The title in the recently searched view */
+"search.recently-searched.title" = "BUSCADO RECIENTEMENTE";
+/* The title of the notes and preferences button in the client 360 menu */
+"client360.actions.notes-and-preferences.title" = "NOTAS Y PREFERENCIAS";
+/* The text to show for the sort button in client lists */
+"client-list.toolbar.sort.title" = "ORDENAR";
+/* The placeholder for a field in generic form with readonly status */
+"generic-form.field.readonly.placeholder" = "";
+"client360.header.clientNumber" = "Número de cliente";
+"client-list.form.edit-list.title" = "EDITAR LISTA";
+"client360.timeline.case.title" = "Customer Service";
+"client360.timeline.nps.title" = "NPS";
+"client360.timeline.transactions.paymentMethode" = "FORMA DE PAGO";
+"client360.timeline.transactions.invoiceReference" = "NÚMERO DE REFERENCIA DE LA FACTURA";
+"client360.timeline.transactions.duties.title" = "Impuestos";
+"stock-details.my-store.title" = "MI TIENDA";
+"stock-details.my-store.description.not-available" = "Este producto no está disponible actualmente en su tienda";
+"stock-details.my-store.description.available" = "Este producto está disponible en su tienda";
+"dashboard.filters.clientAdvisors.title" = "MEMBERS";
+/* The tab icon title for Product catalogue */
+"tab.catalog.title" = "PRODUCTOS";
+/* The caption shown if attributes (size, coulour, material) are missing to check the stock */
+"product-details.stock-information.caption.missing-attributes" = "Especifique los criterios anteriores para activar las opciones";
+/* The default title to show on the timeline item for a given product share */
+"client360.timeline.product-share.title" = "Productos compartidos";
+"product.attribute.size" = "Size";
+"product.attribute.color_hexa" = "Color";
+"product.limited-edition" = "Limited Edition";
+
+/* List of possible colors */
+"color.01" = "WHITE";
+"color.01A" = "WHITE";
+"color.01B" = "WHITE";
+"color.02" = "OFF WHITE";
+"color.02A" = "OFF WHITE";
+"color.02B" = "OFF WHITE";
+"color.03" = "ECRU";
+"color.04" = "CREAM";
+"color.05" = "PUTTY";
+"color.06" = "PERLE";
+"color.07" = "NUDE";
+"color.08" = "SAND";
+"color.09" = "BLUSH";
+"color.10" = "TAN";
+"color.11" = "BEIGE";
+"color.12" = "CAMEL";
+"color.13" = "DARK BEIGE";
+"color.13A" = "DARK BEIGE";
+"color.13B" = "DARK BEIGE";
+"color.14" = "DARK CAMEL";
+"color.15" = "PAPRIKA";
+"color.16" = "DEEP ORANGE";
+"color.16A" = "DEEP ORANGE";
+"color.16C" = "DEEP ORANGE";
+"color.17" = "MEDIUM ORANGE";
+"color.17K" = "MEDIUM ORANGE";
+"color.18" = "RED ORANGE";
+"color.19" = "POPPY";
+"color.20" = "VERMILLION";
+"color.21" = "MEDIUM RED";
+"color.21A" = "MEDIUM RED";
+"color.21B" = "MEDIUM RED";
+"color.22" = "CHERRY";
+"color.23" = "BORDEAUX";
+"color.23B" = "BORDEAUX";
+"color.24" = "GRENAT";
+"color.25" = "CARMINE";
+"color.26" = "DEEP FUSCHIA";
+"color.26A" = "DEEP FUSCHIA";
+"color.26B" = "DEEP FUSCHIA";
+"color.27" = "CORAL";
+"color.28" = "RASPBERRY";
+"color.29" = "MAGENTA";
+"color.29A" = "MENTHOL";
+"color.30" = "ROSE";
+"color.31" = "DARK ROSE";
+"color.32" = "FLAMINGO PINK";
+"color.32A" = "FLAMINGO PINK";
+"color.33" = "PASTEL PINK";
+"color.34" = "FADED PINK";
+"color.34A" = "FADED PINK";
+"color.35" = "PEACH";
+"color.36" = "APRICOT";
+"color.37" = "IVORY";
+"color.38" = "VANILLA";
+"color.39" = "LEMON";
+"color.39A" = "LEMON";
+"color.40" = "GOLDEN YELLOW";
+"color.41" = "MARIGOLD";
+"color.42" = "SAFRON";
+"color.43" = "HONEY";
+"color.44" = "MUSTARD";
+"color.45" = "ABSINTHE";
+"color.46" = "LIME TEA";
+"color.47" = "ALMOND GREEN";
+"color.48" = "PALE KHAKI";
+"color.49" = "OLIVE";
+"color.50" = "KHAKI";
+"color.51" = "DARK KHAKI";
+"color.51A" = "DARK KHAKI";
+"color.52" = "BRONZE";
+"color.53" = "PINE";
+"color.53A" = "PINE";
+"color.54" = "FERN";
+"color.55" = "BOTTLE GREEN";
+"color.55A" = "BOTTLE GREEN";
+"color.56" = "GREEN";
+"color.56A" = "GREEN";
+"color.57" = "GRASS GREEN";
+"color.57A" = "GRASS GREEN";
+"color.58" = "MINT";
+"color.59" = "PISTACHE";
+"color.60" = "AQUA";
+"color.61" = "SAGE GREEN";
+"color.62" = "GLACIER";
+"color.63" = "LIGHT BLUE";
+"color.64" = "SKY BLUE";
+"color.65" = "LAVENDER";
+"color.66" = "WISTERIA";
+"color.66A" = "WISTERIA";
+"color.67" = "BLUE";
+"color.68" = "TURQUOISE";
+"color.68B" = "TURQUOISE";
+"color.69" = "CYAN";
+"color.69A" = "CYAN";
+"color.70" = "COBALT";
+"color.70A" = "COBALT";
+"color.71" = "ROYAL BLUE";
+"color.72" = "SAPPHIRE";
+"color.73" = "DUCK BLUE";
+"color.74" = "ELECTRIC BLUE";
+"color.74A" = "ELECTRIC BLUE";
+"color.75" = "DEEP SEA BLUE";
+"color.76" = "NAVY BLUE";
+"color.76A" = "NAVY BLUE";
+"color.76B" = "NAVY BLUE";
+"color.77" = "MIDNIGHT BLUE";
+"color.77A" = "MIDNIGHT BLUE";
+"color.77B" = "MIDNIGHT BLUE";
+"color.78" = "INK";
+"color.78A" = "INK";
+"color.79" = "BLUE BLACK";
+"color.80" = "AUBERGINE";
+"color.81" = "DEEP VIOLET";
+"color.82" = "BLACKCURRANT";
+"color.83" = "PURPLE";
+"color.84" = "MULBERRY";
+"color.85" = "BLACKBERRY";
+"color.86" = "PRUNE";
+"color.87" = "TABAC";
+"color.88" = "COGNAC";
+"color.89" = "MOROCCAN BROWN";
+"color.90" = "DARK BROWN";
+"color.90A" = "DARK BROWN";
+"color.90B" = "DARK BROWN";
+"color.91" = "CHOCOLATE";
+"color.92" = "TAUPE";
+"color.93" = "PALE GREY";
+"color.93A" = "PALE GREY";
+"color.93B" = "PALE GREY";
+"color.94" = "PEARL GREY";
+"color.94A" = "PEARL GREY";
+"color.95" = "DOVE GREY";
+"color.96" = "MISTY GREY";
+"color.97" = "STONE GREY";
+"color.98" = "ANTHRACITE";
+"color.98A" = "ANTHRACITE";
+"color.99" = "BLACK";
+"color.99A" = "BLACK";
+"color.99B" = "BLACK";
+"color.99C" = "BLACK";
+"color.99D" = "BLACK";
+"color.99E" = "BLACK";
+"color.99F" = "BLACK";
+"color.99G" = "BLACK";
+"color.99H" = "BLACK";
+"color.99I" = "BLACK";
+"color.99J" = "BLACK";
+"color.AG" = "SILVER";
+"color.CU" = "COPPER";
+"color.L1" = "LICENCE 1";
+"color.L2" = "LICENCE 2";
+"color.L3" = "LICENCE 3";
+"color.L4" = "LICENCE 4";
+"color.L5" = "LICENCE 5";
+"color.L6" = "LICENCE 6";
+"color.L7" = "LICENCE 7";
+"color.L8" = "LICENCE 8";
+"color.L9" = "LICENCE 9";
+"color.MU" = "MULTICOLOR";
+"color.MUA" = "MULTICOLOR";
+"color.MUB" = "MULTICOLOR";
+"color.OR" = "GOLD";
+"color.PT" = "PRET A TEINDRE";
+"color.TR" = "TRANSPARENT";
+"color.XX" = "-";
+
+
+/* List of possible sizes */
+"size.XXXS" = "XXXS";
+"size.XXS" = "XXS";
+"size.XS" = "XS";
+"size.S" = "S";
+"size.M" = "M";
+"size.L" = "L";
+"size.XL" = "XL";
+"size.XXL" = "XXL";
+"size.XXXL" = "XXXL";
+"size.0" = "0";
+"size.1" = "1";
+"size.2" = "2";
+"size.3" = "3";
+"size.4" = "4";
+"size.5" = "5";
+"size.6" = "6";
+"size.7" = "7";
+"size.8" = "8";
+"size.9" = "9";
+"size.10" = "10";
+"size.11" = "11";
+"size.12" = "12";
+"size.13" = "13";
+"size.14" = "14";
+"size.15" = "15";
+"size.16" = "16";
+"size.17" = "17";
+"size.18" = "18";
+"size.19" = "19";
+"size.24" = "24";
+"size.25" = "25";
+"size.26" = "26";
+"size.27" = "27";
+"size.28" = "28";
+"size.29" = "29";
+"size.30" = "30";
+"size.31" = "31";
+"size.32" = "32";
+"size.33" = "33";
+"size.34" = "34";
+"size.34_5" = "34-5";
+"size.35" = "35";
+"size.35_5" = "35-5";
+"size.36" = "36";
+"size.37" = "37";
+"size.38" = "38";
+"size.39" = "39";
+"size.40" = "40";
+"size.41" = "41";
+"size.42" = "42";
+"size.43" = "43";
+"size.44" = "44";
+"size.45" = "45";
+"size.46" = "46";
+"size.47" = "47";
+"size.48" = "48";
+"size.49" = "49";
+"size.50" = "50";
+"size.51" = "51";
+"size.52" = "52";
+"size.53" = "53";
+"size.54" = "54";
+"size.55" = "55";
+"size.56" = "56";
+"size.58" = "58";
+"size.60" = "60";
+"size.62" = "62";
+"size.64" = "64";
+"size.65" = "65";
+"size.70" = "70";
+"size.75" = "75";
+"size.80" = "80";
+"size.85" = "85";
+"size.90" = "90";
+"size.95" = "95";
+"size.100" = "100";
+"size.105" = "105";
+"size.110" = "110";
+"size.115" = "115";
+"size.120" = "120";
+"size.125" = "125";
+"size.130" = "130";
+"size.135" = "135";
+"size.1517" = "1517";
+"size.1518" = "1518";
+"size.1820" = "1820";
+"size.1922" = "1922";
+"size.2021" = "2021";
+"size.2123" = "2123";
+"size.2223" = "2223";
+"size.2326" = "2326";
+"size.2425" = "2425";
+"size.2426" = "2426";
+"size.2627" = "2627";
+"size.2729" = "2729";
+"size.2730" = "2730";
+"size.2829" = "2829";
+"size.3031" = "3031";
+"size.3032" = "3032";
+"size.3134" = "3134";
+"size.3233" = "3233";
+"size.3335" = "3335";
+"size.3435" = "3435";
+"size.3538" = "3538";
+"size.3638" = "3638";
+"size.3941" = "3941";
+"size.4244" = "4244";
+"size.4245" = "4245";
+"size.4436" = "4436";
+"size.4547" = "4547";
+"size.4638" = "4638";
+"size.4648" = "4648";
+"size.4840" = "4840";
+"size.5042" = "5042";
+"size.5244" = "5244";
+"size.5446" = "5446";
+"size.5648" = "5648";
+"size.5850" = "5850";
+"size.6052" = "6052";
+"size.6254" = "6254";
+"size.6_5" = "45052";
+"size.7_5" = "45053";
+"size.8_5" = "45054";
+"size.9_5" = "45055";
+"size.10_5" = "45056";
+"size.11_5" = "45057";
+"size.12_5" = "45058";
+"size.13_5" = "45059";
+"size.0M" = "0M";
+"size.1M" = "1M";
+"size.3M" = "3M";
+"size.6M" = "6M";
+"size.9M" = "9M";
+"size.12M" = "12M";
+"size.18M" = "18M";
+"size.2A" = "2A";
+"size.3A" = "3A";
+"size.4A" = "4A";
+"size.5A" = "5A";
+"size.6A" = "6A";
+"size.7A" = "7A";
+"size.8A" = "8A";
+"size.9A" = "9A";
+"size.10A" = "10A";
+"size.12A" = "12A";
+"size.14A" = "14A";
+"size.16A" = "16A";
+"size.18A" = "18A";
+"size.36_5" = "36-5";
+"size.37_5" = "37-5";
+"size.38_5" = "38-5";
+"size.39_5" = "39-5";
+"size.40_5" = "40-5";
+"size.41_5" = "41-5";
+"size.42_5" = "42-5";
+"size.43_5" = "43-5";
+"size.44_5" = "44-5";
+"size.NULL" = "NULL";
+"size.TU" = "ONE SIZE";
+"size.S_M" = "S/M";

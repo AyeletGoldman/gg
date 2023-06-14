@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>218884618270-pe070hc32nbgptjce83s13iqv9g109t5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.218884618270-pe070hc32nbgptjce83s13iqv9g109t5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8edKzBXI0RJCdB8MXNoRC0AY3bpLmgss</string>
+	<key>GCM_SENDER_ID</key>
+	<string>218884618270</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.balink.kenzo-clienteling</string>
+	<key>PROJECT_ID</key>
+	<string>kenzo-clienteling</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kenzo-clienteling.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:218884618270:ios:5fe2a606ba32b0291ad60f</string>
+</dict>
+</plist>

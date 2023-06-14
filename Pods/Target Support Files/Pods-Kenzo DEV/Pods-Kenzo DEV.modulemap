@@ -1,0 +1,6 @@
+framework module Pods_Kenzo_DEV {
+  umbrella header "Pods-Kenzo DEV-umbrella.h"
+
+  export *
+  module * { export * }
+}

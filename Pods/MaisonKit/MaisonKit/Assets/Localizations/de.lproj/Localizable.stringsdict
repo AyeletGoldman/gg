@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>client-list.toolbar.matched-clients.title</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@clients@</string>
+      <key>clients</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 Kunde</string>
+        <key>other</key>
+        <string>%li Kunden</string>
+      </dict>
+    </dict>
+    <key>client360.timeline.pay-by-link.number-of-items.format</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@items@</string>
+      <key>items</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 Artikel</string>
+        <key>other</key>
+        <string>%li Artikel</string>
+      </dict>
+    </dict>
+    <key>client360.timeline.transaction.number-of-items.format</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@items@</string>
+      <key>items</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 Artikel</string>
+        <key>other</key>
+        <string>%li Artikel</string>
+      </dict>
+    </dict>
+    <key>list.form-field.selected-clients.number-of-clients</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@clients@</string>
+      <key>clients</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 Kunde</string>
+        <key>other</key>
+        <string>%li Kunden</string>
+      </dict>
+    </dict>
+    <key>notification-center.toolbar.matched-items.title</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@notifications@</string>
+      <key>notifications</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 Benachrichtigung</string>
+        <key>other</key>
+        <string>%li Benachrichtigungen</string>
+      </dict>
+    </dict>
+    <key>nps.survey-details.transaction.number-of-items.format</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@items@</string>
+      <key>items</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 Artikel</string>
+        <key>other</key>
+        <string>%li Artikel</string>
+      </dict>
+    </dict>
+    <key>outreach.template-selection.templates.heading.title</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@templates@</string>
+      <key>templates</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 Vorlage</string>
+        <key>other</key>
+        <string>%li Vorlagen</string>
+      </dict>
+    </dict>
+    <key>product-list.filters.matched-products.title</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@matches@</string>
+      <key>matches</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 Ergebnis gefunden</string>
+        <key>other</key>
+        <string>%li Ergebnisse gefunden</string>
+      </dict>
+    </dict>
+    <key>stock-details.check-stock.row.subtitle</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@units@</string>
+      <key>units</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>Einheit</string>
+        <key>other</key>
+        <string>Einheiten</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>

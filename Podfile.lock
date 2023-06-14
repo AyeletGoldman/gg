@@ -1,0 +1,448 @@
+PODS:
+  - Alamofire (5.6.4)
+  - AppAuth (1.6.0):
+    - AppAuth/Core (= 1.6.0)
+    - AppAuth/ExternalUserAgent (= 1.6.0)
+  - AppAuth/Core (1.6.0)
+  - AppAuth/ExternalUserAgent (1.6.0):
+    - AppAuth/Core
+  - Biodag (0.3.0)
+  - Firebase/Analytics (10.2.0):
+    - Firebase/Core
+  - Firebase/Core (10.2.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (~> 10.2.0)
+  - Firebase/CoreOnly (10.2.0):
+    - FirebaseCore (= 10.2.0)
+  - Firebase/Crashlytics (10.2.0):
+    - Firebase/CoreOnly
+    - FirebaseCrashlytics (~> 10.2.0)
+  - Firebase/Messaging (10.2.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 10.2.0)
+  - Firebase/RemoteConfig (10.2.0):
+    - Firebase/CoreOnly
+    - FirebaseRemoteConfig (~> 10.2.0)
+  - FirebaseABTesting (10.2.0):
+    - FirebaseCore (~> 10.0)
+  - FirebaseAnalytics (10.2.0):
+    - FirebaseAnalytics/AdIdSupport (= 10.2.0)
+    - FirebaseCore (~> 10.0)
+    - FirebaseInstallations (~> 10.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.8)
+    - GoogleUtilities/MethodSwizzler (~> 7.8)
+    - GoogleUtilities/Network (~> 7.8)
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - FirebaseAnalytics/AdIdSupport (10.2.0):
+    - FirebaseCore (~> 10.0)
+    - FirebaseInstallations (~> 10.0)
+    - GoogleAppMeasurement (= 10.2.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.8)
+    - GoogleUtilities/MethodSwizzler (~> 7.8)
+    - GoogleUtilities/Network (~> 7.8)
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - FirebaseCore (10.2.0):
+    - FirebaseCoreInternal (~> 10.0)
+    - GoogleUtilities/Environment (~> 7.8)
+    - GoogleUtilities/Logger (~> 7.8)
+  - FirebaseCoreInternal (10.2.0):
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+  - FirebaseCrashlytics (10.2.0):
+    - FirebaseCore (~> 10.0)
+    - FirebaseInstallations (~> 10.0)
+    - GoogleDataTransport (~> 9.2)
+    - GoogleUtilities/Environment (~> 7.8)
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+    - PromisesObjC (~> 2.1)
+  - FirebaseInstallations (10.2.0):
+    - FirebaseCore (~> 10.0)
+    - GoogleUtilities/Environment (~> 7.8)
+    - GoogleUtilities/UserDefaults (~> 7.8)
+    - PromisesObjC (~> 2.1)
+  - FirebaseMessaging (10.2.0):
+    - FirebaseCore (~> 10.0)
+    - FirebaseInstallations (~> 10.0)
+    - GoogleDataTransport (~> 9.2)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.8)
+    - GoogleUtilities/Environment (~> 7.8)
+    - GoogleUtilities/Reachability (~> 7.8)
+    - GoogleUtilities/UserDefaults (~> 7.8)
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - FirebaseRemoteConfig (10.2.0):
+    - FirebaseABTesting (~> 10.0)
+    - FirebaseCore (~> 10.0)
+    - FirebaseInstallations (~> 10.0)
+    - GoogleUtilities/Environment (~> 7.8)
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+  - FSCalendar (2.8.4)
+  - GoogleAppMeasurement (10.2.0):
+    - GoogleAppMeasurement/AdIdSupport (= 10.2.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.8)
+    - GoogleUtilities/MethodSwizzler (~> 7.8)
+    - GoogleUtilities/Network (~> 7.8)
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - GoogleAppMeasurement/AdIdSupport (10.2.0):
+    - GoogleAppMeasurement/WithoutAdIdSupport (= 10.2.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.8)
+    - GoogleUtilities/MethodSwizzler (~> 7.8)
+    - GoogleUtilities/Network (~> 7.8)
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - GoogleAppMeasurement/WithoutAdIdSupport (10.2.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.8)
+    - GoogleUtilities/MethodSwizzler (~> 7.8)
+    - GoogleUtilities/Network (~> 7.8)
+    - "GoogleUtilities/NSData+zlib (~> 7.8)"
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - GoogleDataTransport (9.2.0):
+    - GoogleUtilities/Environment (~> 7.7)
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/AppDelegateSwizzler (7.10.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.10.0):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.10.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (7.10.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (7.10.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.10.0)"
+  - GoogleUtilities/Reachability (7.10.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (7.10.0):
+    - GoogleUtilities/Logger
+  - KeychainAccess (4.2.2)
+  - Kingfisher (7.6.2)
+  - LVMHMoyaPlugins (0.2.0):
+    - Moya
+  - MaisonKit (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Full (= 0.24.0)
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Appointments (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/AppointmentsRouteDescriptors
+    - MaisonKit/ClientsRouteDescriptors
+    - MaisonKit/Core
+    - MaisonKit/GenericForm
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/AppointmentsRouteDescriptors (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Authentication (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Catalog (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKit/Curator
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Clients (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/AppointmentsRouteDescriptors
+    - MaisonKit/ClientsRouteDescriptors
+    - MaisonKit/Core
+    - MaisonKit/GenericForm
+    - MaisonKit/Outreach
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/ClientsRouteDescriptors (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Core (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Localization
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Curator (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKit/OutreachRouteDescriptors
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Dashboard (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKit/DashboardRouteDescriptors
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/DashboardRouteDescriptors (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Full (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Appointments
+    - MaisonKit/Authentication
+    - MaisonKit/Catalog
+    - MaisonKit/Clients
+    - MaisonKit/Core
+    - MaisonKit/Curator
+    - MaisonKit/Dashboard
+    - MaisonKit/GenericForm
+    - MaisonKit/MKSettings
+    - MaisonKit/NotificationCenter
+    - MaisonKit/NPS
+    - MaisonKit/Outreach
+    - MaisonKit/PayByLink
+    - MaisonKit/ProductShare
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/GenericForm (0.24.0):
+    - Biodag
+    - FSCalendar
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Localization (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/MKSettings (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/NotificationCenter (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/AppointmentsRouteDescriptors
+    - MaisonKit/ClientsRouteDescriptors
+    - MaisonKit/Core
+    - MaisonKit/DashboardRouteDescriptors
+    - MaisonKit/NotificationCenterRouteDescriptors
+    - MaisonKit/NPSRouteDescriptors
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/NotificationCenterRouteDescriptors (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/NPS (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/ClientsRouteDescriptors
+    - MaisonKit/Core
+    - MaisonKit/NPSRouteDescriptors
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/NPSRouteDescriptors (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/Outreach (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKit/OutreachRouteDescriptors
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/OutreachRouteDescriptors (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/PayByLink (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Catalog
+    - MaisonKit/ClientsRouteDescriptors
+    - MaisonKit/Core
+    - MaisonKit/OutreachRouteDescriptors
+    - MaisonKit/PayByLinkRouteDescriptors
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/PayByLinkRouteDescriptors (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/Core
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKit/ProductShare (0.24.0):
+    - Biodag
+    - KeychainAccess
+    - Kingfisher
+    - MaisonKit/ClientsRouteDescriptors
+    - MaisonKit/OutreachRouteDescriptors
+    - MaisonKitUI
+    - nmbr-icu
+    - StylableSwiftUI (= 4.1.0)
+  - MaisonKitAuth (0.4.0):
+    - AppAuth (~> 1.5)
+    - KeychainAccess (= 4.2.2)
+  - MaisonKitUI (0.0.3):
+    - Kingfisher
+    - StylableSwiftUI
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Combine (15.0.0):
+    - Moya/Core
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - nanopb (2.30909.0):
+    - nanopb/decode (= 2.30909.0)
+    - nanopb/encode (= 2.30909.0)
+  - nanopb/decode (2.30909.0)
+  - nanopb/encode (2.30909.0)
+  - nmbr-icu (0.3.4)
+  - PromisesObjC (2.1.1)
+  - StylableSwiftUI (4.1.0)
+
+DEPENDENCIES:
+  - Firebase/Analytics
+  - Firebase/Crashlytics
+  - Firebase/Messaging
+  - Firebase/RemoteConfig
+  - LVMHMoyaPlugins
+  - MaisonKit
+  - MaisonKitAuth (~> 0.4.0)
+  - Moya/Combine
+
+SPEC REPOS:
+  https://github.com/lvmh-clienteling/ios-pod-specs.git:
+    - LVMHMoyaPlugins
+    - MaisonKit
+    - MaisonKitAuth
+    - MaisonKitUI
+    - StylableSwiftUI
+  trunk:
+    - Alamofire
+    - AppAuth
+    - Biodag
+    - Firebase
+    - FirebaseABTesting
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseCoreInternal
+    - FirebaseCrashlytics
+    - FirebaseInstallations
+    - FirebaseMessaging
+    - FirebaseRemoteConfig
+    - FSCalendar
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleUtilities
+    - KeychainAccess
+    - Kingfisher
+    - Moya
+    - nanopb
+    - nmbr-icu
+    - PromisesObjC
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  AppAuth: 8fca6b5563a5baef2c04bee27538025e4ceb2add
+  Biodag: c91a0a6cb048b8e91a8b909948c6916cf0fc9156
+  Firebase: a3ea7eba4382afd83808376edb99acdaff078dcf
+  FirebaseABTesting: 22840e1573ea2fbb519f5a2f1c93be7232508358
+  FirebaseAnalytics: 24a15e58e505abcedc3017b6f7c206fbfa964580
+  FirebaseCore: 813838072b797b64f529f3c2ee35e696e5641dd1
+  FirebaseCoreInternal: 091bde13e47bb1c5e9fe397634f3593dc390430f
+  FirebaseCrashlytics: df7406152189d48346deafb716806d7bd9ebb573
+  FirebaseInstallations: 004915af170935e3a583faefd5f8bc851afc220f
+  FirebaseMessaging: cc9f40f5b7494680f3844d08e517e92aa4e8d9f7
+  FirebaseRemoteConfig: 5bdeadd64a042dad0f6a38fee7e017818240c3d2
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  GoogleAppMeasurement: 3bc3a6484b7bb20dd8489242c4dd3c92a3e5107b
+  GoogleDataTransport: 1c8145da7117bd68bbbed00cf304edb6a24de00f
+  GoogleUtilities: bad72cb363809015b1f7f19beb1f1cd23c589f95
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  Kingfisher: 6c5449c6450c5239166510ba04afe374a98afc4f
+  LVMHMoyaPlugins: 54eb9c3eec4cc69ea4f377b7aacfa5e88b6fada8
+  MaisonKit: d18387474aef50ecfd1f28b8eab93669aabafef5
+  MaisonKitAuth: c984895eed0f0d4fbd11d5b9d1c055a21acd3367
+  MaisonKitUI: 05e804c9610b664acd43e38629897253ef77e005
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  nanopb: b552cce312b6c8484180ef47159bc0f65a1f0431
+  nmbr-icu: 18da300c10b8ac9ed891607c37bd05b77adb0d37
+  PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
+  StylableSwiftUI: 9c2583b8caba4ab050914900baee088c735aa025
+
+PODFILE CHECKSUM: 2c1d71a65a579fd159089fac91f6eb37c3103ca4
+
+COCOAPODS: 1.12.1

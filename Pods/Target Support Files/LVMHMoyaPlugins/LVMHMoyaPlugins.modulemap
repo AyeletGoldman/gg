@@ -1,0 +1,6 @@
+framework module LVMHMoyaPlugins {
+  umbrella header "LVMHMoyaPlugins-umbrella.h"
+
+  export *
+  module * { export * }
+}

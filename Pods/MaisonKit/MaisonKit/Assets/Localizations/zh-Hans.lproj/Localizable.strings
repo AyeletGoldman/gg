@@ -1,0 +1,1052 @@
+/* The title of the outreach action that gives the option to contact with a client */
+"actions.client-outreach.title" = "接触";
+/* The default 'cancel' button title */
+"alert.buttons.cancel.title" = "取消";
+/* The default 'OK' button title */
+"alert.buttons.ok.title" = "确定";
+/* The banner description showing after the appointment has been cancelled */
+"appointment-details.appointment-cancelled.description" = "预约已取消";
+/* Title for the join virtual meeting button */
+"appointment-details.join-virtual-meeting.button.title" = "加入在线咨询";
+/* The description for how long before the meeting the virtual link is availiable */
+"appointment-details.join-virtual-meeting.description" = "会议室有效期至咨询开始前 %@ 分钟";
+/* Title for appointment details edit button in the navigation bar */
+"appointment-details.navigationBar.edit-button.title" = "编辑";
+/* Title for appointment details navigation bar */
+"appointment-details.navigationBar.title" = "预约详情";
+/* Placeholder for appointment form type field */
+"appointment-form.field.appointment-type.placeholder" = "-";
+/* Title for appointment form type field */
+"appointment-form.field.appointment-type.title" = "预约类型";
+/* Placeholder for appointment form client field */
+"appointment-form.field.client.placeholder" = "-";
+/* The navigation bar title for selecting a client in appointment form client field */
+"appointment-form.field.client.select-page-title" = "选择客户";
+/* Title for appointment form client field */
+"appointment-form.field.client.title" = "客户名称";
+/* Placeholder for appointment form date field */
+"appointment-form.field.date.placeholder" = "-";
+/* Title for appointment form date field */
+"appointment-form.field.date.title" = "日期和时间";
+/* Placeholder for appointment form notes field */
+"appointment-form.field.notes.placeholder" = "-";
+/* Title for appointment form notes field */
+"appointment-form.field.notes.title" = "笔记";
+/* Placeholder for appointment form store field */
+"appointment-form.field.store.placeholder" = "-";
+/* Title for appointment form store field */
+"appointment-form.field.store.title" = "店铺";
+/* Placeholder for appointment form topic field */
+"appointment-form.field.topic.placeholder" = "-";
+/* Title for appointment form topic field */
+"appointment-form.field.topic.title" = "主题";
+/* The text to show on a toast when an appointment has been successfully booked */
+"appointments.appointment-booked.toast.title" = "预约已成功预订";
+/* The title for the confirm appointment screen to be displayed in the navigation bar. */
+"appointments.confirm.navigation-bar.title" = "预约";
+/* The title for the done button in the navigation bar */
+"appointments.filters.navigation-bar.done.title" = "完成";
+/* The title for the navigation bar in the filters screen for appointments */
+"appointments.filters.navigation-bar.title" = "筛选约会";
+/* The title to show in the navigation bar for the appointments scene */
+"appointments.navigationBar.title" = "预约";
+/* Title for the timeline entry detail for category */
+"appointments.timeline.appointments-entry.category.title" = "类别";
+/* Title for the timeline entry detail for client */
+"appointments.timeline.appointments-entry.client.title" = "客户";
+/* The subtitle for the empty state in the appointments view */
+"appointments.timeline.empty.subtitle" = "看来你今天有很多空闲时间";
+/* The title for the empty state in the appointments view */
+"appointments.timeline.empty.title" = "没有即将到来的预约";
+/* Title for the timeline entry for in-store appointments */
+"appointments.timeline.in-store-appointments.title" = "到店";
+/* The location for a virtual appointment. This will usually be the string 'Online' */
+"appointments.timeline.virtual-appointments.location.title" = "在线";
+/* Title for the timeline entry for virtual appointments */
+"appointments.timeline.virtual-appointments.title" = "在线";
+/* The title for the filters button in appointments toolbar */
+"appointments.toolbar.filters.title" = "筛选条件";
+/* The title for the appointments toolbar. This value is shown in an appointments screen where the appointments for the whole store are shown. The user can filter by customer advisor and then this text would change to the advisor's name. So this value means we are searching the whole store. */
+"appointments.toolbar.title" = "所有店铺";
+/* The title of extra assets amount in assets group block */
+"assets-group.extra-assets-amount.title" = "+%1$@";
+/* The text to show to the user while we are verifying they are logged in */
+"authentication.intermediary.title" = "正在验证登录状态...";
+/* Title for the button that tells users to enable camera use */
+"barcode-scanner.enable-camera.button.title" = "点击以启用相机访问权限";
+/* Title for the navigation bar button that cancels the barcode scanning */
+"barcode-scanner.navigationBar.leading.cancel" = "取消";
+/* Title for the button that tells users to open the settings app to enable camera use */
+"barcode-scanner.open-settings.button.title" = "点击以打开设置并启用相机访问权限";
+/* Subtitle for the scan barcode screen which informs the user of what they need to do to open a product page */
+"barcode-scanner.scan-barcode.subtitle" = "找到产品上的条形码,然后将其置于下面的相机取景框中";
+/* Title for the scan barcode screen */
+"barcode-scanner.scan-barcode.title" = "扫描条形码";
+/* Title for the navigation bar button that cancel book an appointment form */
+"book-appointment.navigationBar.leading.cancel" = "取消";
+/* Title for book an appointment navigation bar */
+"book-appointment.navigationBar.title" = "预约";
+/* Title for the next button in book an appointment navigation bar */
+"book-appointment.navigationBar.trailing.next" = "下一步";
+/* Title for done state in the edit button */
+"button.edit.done.title" = "完成";
+/* Title for edit state in the edit button */
+"button.edit.edit.title" = "编辑";
+/* Title for the navigation bar button that cancel calendar and slots screen */
+"calendar-and-slots.navigationBar.leading.cancel" = "取消";
+/* Title for the done button in the calendar and slots screen navigation bar */
+"calendar-and-slots.navigationBar.trailing.done" = "完成";
+/* Empty view subtitle when there are no calendar slots available */
+"calendar.slots.empty.subtitle" = "不幸的是，这一天没有可用的时间段。改天试试。";
+/* Empty view title when there are no calendar slots available */
+"calendar.slots.empty.title" = "没有空房";
+/* Title for today button in calendar view */
+"calendar.todayButton.title" = "今天";
+/* An error to show when the device we are using does not have a camera but we are trying to show the camera feed */
+"camera.error.no-available-sources.title" = "此设备中没有摄像头可用，轻点任意位置可关闭此屏幕。";
+/* Title for the 'Filter all' button in the catalog view for showing the product list with the catalog products */
+"catalog.filter-all.button.title" = "筛选全部";
+/* The title for the catalog heading */
+"catalog.heading.title" = "产品";
+/* The placeholder for the searchbar in product categoty search */
+"catalog.product-category.search.searchBar.placeholder" = "搜索产品";
+/* The screen title to show on product list screen while displaying all products */
+"catalog.product-list.all-products.title" = "所有产品";
+/* The subtitle to show when there are no results in a product list */
+"catalog.product-list.empty-list.subtitle" = "非常抱歉，没有找到任何符合您条件的产品。";
+/* The title to show when there are no results in a product list */
+"catalog.product-list.empty-list.title" = "没有找到相应匹配";
+/* The placeholder for searching lists in product catalog. The placeholder is the name of the category being searched. */
+"catalog.product-list.search.placeholder" = "搜索 %@";
+/* The placeholder for searching a similar products list */
+"catalog.product-list.search.similar-products.placeholder" = "搜索相似产品";
+/* The screen title to show on product list screen in case of similar products mode */
+"catalog.product-list.similar-products.title" = "查找同类产品";
+/* The placeholder for global searching in product catalog. */
+"catalog.search.placeholder" = "搜索产品";
+/* Title for button when clearing recent products searches */
+"catalog.search.recently-searched.alert.clear-confirmation.button.title" = "清除";
+/* Message for the alert when clearing recent products searches */
+"catalog.search.recently-searched.alert.clear-confirmation.message" = "您确定要清除搜索记录吗？";
+/* The title for the alert when clearing recent products searches */
+"catalog.search.recently-searched.alert.clear-confirmation.title" = "清除搜索记录？";
+/* The help text body in the recently searched products view */
+"catalog.search.recently-searched.help.body" = "您可以使用产品名或产品的SKU搜索产品。";
+/* The navigation bar title on the global catalog search */
+"catalog.search.title" = "产品";
+/* Title for the 'View all' button in the catalog view for showing the product list based on the selected category */
+"catalog.view-all.button.title" = "查看全部";
+/* The action for the alert when a user has denied access to his photo but still want to save some in it */
+"choose-assets.alert.settings.action" = "打开设置";
+/* The message for the alert when a user has denied access to his photo but still want to save some in it */
+"choose-assets.alert.settings.message" = "为了读取您的照片，您必须首先在设置中允许访问。";
+/* The title for the alert when a user has denied access to his photo but still want to save some in it */
+"choose-assets.alert.settings.title" = "允许我们访问您的照片";
+/* Title of close button in choose assets screen */
+"choose-assets.navigation-bar.close.title" = "取消";
+/* Title of done button in choose assets screen */
+"choose-assets.navigation-bar.done.title" = "完成";
+/* Title of navigation bar in choose assets screen */
+"choose-assets.navigation-bar.title" = "编辑照片";
+/* The title of the button that will allow access to the user's photo library and camera */
+"choose-assets.permissions.allow-access.button.title" = "允许访问";
+/* The explanation text above the button that will allow access to the user's photo library and camera */
+"choose-assets.permissions.explanation.title" = "需要访问您的照片库和相机才能选择或拍摄照片和视频";
+/* The title for the section where the user's library's photos appear */
+"choose-assets.personal-assets.section.title" = "您的照片";
+/* Message for alert shown when saving the selected assets fails */
+"choose-assets.save.error.message" = "保存资产失败。请重试。";
+/* Title for alert shown when saving the selected assets fails */
+"choose-assets.save.error.title" = "保存失败";
+/* Title of the create list button */
+"client-list.create-list.button.title" = "创建列表";
+/* Title for alert button to show confirmation of removing a client from a list */
+"client-list.delete-confirmation.button.title" = "删除客户";
+/* Message for alert to show confirmation of removing a client from a list including the client name */
+"client-list.delete-confirmation.client-name.message" = "您确定要从该列表中删除%1$@吗？";
+/* Message for alert to show confirmation of removing a client from a client list without the client name */
+"client-list.delete-confirmation.message" = "您确定要从该列表中删除此客户吗？";
+/* Title for alert to show delete confirmation */
+"client-list.delete-confirmation.title" = "删除客户吗？";
+/* Title for confirmation alert button when deleting a client list */
+"client-list.delete-list.alert.button.confirm.title" = "删除列表";
+/* Message for confirmation alert for deleting a client list */
+"client-list.delete-list.alert.confirm.message" = "您确定要删除这个列表吗？列表中的客户将不会被删除。";
+/* Title for confirmation alert for deleting a client list */
+"client-list.delete-list.alert.confirm.title" = "删除这个列表吗？";
+/* Message to show on an alert when deleting a client list fails */
+"client-list.delete-list.error.alert.message" = "删除失败，请再试一次";
+/* Message to show on the toast view when deleting a client from a list fails */
+"client-list.deletion.toast.error.title" = "删除客户失败";
+/* The title of the button when the empty view is shown in a list that is editable */
+"client-list.empty.editable.button.title" = "添加客户";
+/* The subtitle of the empty view when the member's list is editable */
+"client-list.empty.editable.subtitle" = "此列表中目前没有任何客户，您可自行添加。";
+/* The title of the empty view when the member's list is editable */
+"client-list.empty.editable.title" = "没有找到客户";
+/* The title of the button when the empty view is shown in a list that is not editable */
+"client-list.empty.non-editable.button.title" = "刷新";
+/* The subtitle of the empty view when the member's list is not editable */
+"client-list.empty.non-editable.subtitle" = "此列表中目前没有客户";
+/* The title of the empty view when the member's list is not editable */
+"client-list.empty.non-editable.title" = "没有找到客户";
+/* Title for button when deleting a client list */
+"client-list.form.alert.delete-confirmation.button.title" = "删除列表";
+/* Message for the alert when deleting a list */
+"client-list.form.alert.delete-confirmation.message" = "您确定要删除这个列表吗？列表中的客户将不会被删除。";
+/* Title for the alert when deleting a list */
+"client-list.form.alert.delete-confirmation.title" = "删除这个列表吗？";
+/* Title for the form when we are creating a list */
+"client-list.form.create-list.title" = "创建列表";
+/* Title for the form when we are editing a list */
+"client-list.form.edit-list.title" = "编辑列表";
+/* Message for alert shown when saving a list fails */
+"client-list.form.save-list.error.message" = "保存列表失败。请再试一次。";
+/* Title for alert shown when saving a list fails */
+"client-list.form.save-list.error.title" = "保存失败";
+/* Title for the toast shown when deleting a client list fails */
+"client-list.form.toast.error.title" = "客户列表删除失败";
+/* Title of the search bar placeholder in client lists when searching a specific member's list. */
+"client-list.members.search.placeholder" = "搜索列表";
+/* Title for the navigation bar button that cancel the client list creation/edition */
+"client-list.navigationBar.leading.cancel" = "取消";
+/* Title for the save button in the client list navigation bar */
+"client-list.navigationBar.trailing.save" = "保存";
+/* The text to show for the sort done button in client lists */
+"client-list.sort.done.title" = "完成";
+/* The text to show for the sort button in client lists */
+"client-list.toolbar.sort.title" = "排序";
+/* Empty view button title when there are no lists */
+"client-lists.empty.button.title" = "创建一个新列表";
+/* Empty view subtitle when there are no lists */
+"client-lists.empty.subtitle" = "您还未创建任何列表。";
+/* Empty view title when there are no lists */
+"client-lists.empty.title" = "没有找到列表";
+/* Title of the 'More' button in client list info section */
+"client-lists.info.more-button.title" = "更多";
+/* The title of the placeholder for searching clients globally */
+"client-lists.navigation-bar.search.placeholder.title" = "搜索客户";
+/* The title of the client lists screen */
+"client-lists.navigationBar.title" = "客户列表";
+/* Error message when text searched doesn't have required length */
+"client-search.required-query-length.error.title" = "您必须至少输入%li个字符才能搜索";
+/* The title for the 'Add an event' action sheet */
+"client360.actions.add-an-event.title" = "添加待办事项";
+/* The title of the client 360 action for additional information */
+"client360.actions.additional-information.title" = "更多信息";
+/* The title of the client 360 action for booking an appointment */
+"client360.actions.book-appointment.title" = "预约";
+/* The title of the notes and preferences button in the client 360 menu */
+"client360.actions.notes-and-preferences.title" = "备注与偏好";
+/* Title for the contact disabled button in Client 360 view */
+"client360.contact.button-disabled.title" = "没有联系渠道";
+/* Title for the contact button in Client 360 view */
+"client360.contact.button.title" = "联系";
+/* The title of the button to start editing a client's profile */
+"client360.details.navigation-bar.trailing.edit" = "编辑";
+/* Title for the client 360 details subview navigation bar */
+"client360.details.navigationBar.title" = "客户详情";
+/* The message to show when a user copies the client ID in client 360 */
+"client360.header.toast-message.client-id-copied.title" = "客户 ID 已复制";
+/* The subtitle to show in a KPI to indicate it was an NPS score */
+"client360.kpis.nps.subtitle" = "最近的 NPS";
+/* Title of close button in navigation bar */
+"client360.navigation-bar.close.title" = "关闭";
+/* Title for the client 360 notes and preferences subview navigation bar */
+"client360.notes-and-preferences.navigationBar.title" = "备注与偏好";
+/* The subtitle for the empty view in notes and preferences section 'Notes' */
+"client360.notesAndPreferences.notes.empty.subtitle" = "无任何备注。";
+/* The title for the empty view in notes and preferences section 'Notes' */
+"client360.notesAndPreferences.notes.empty.title" = "没有找到任何备注";
+/* The title for the form section header for 'Notes' */
+"client360.notesAndPreferences.notes.title" = "备注";
+/* The subtitle for the empty view in notes and preferences section 'Preferences' */
+"client360.notesAndPreferences.preferences.empty.subtitle" = "无任何偏好。";
+/* The title for the empty view in notes and preferences section 'Preferences' */
+"client360.notesAndPreferences.preferences.empty.title" = "没有发现任何偏好";
+/* The title for the form section header for 'Preferences' */
+"client360.notesAndPreferences.preferences.title" = "偏好";
+/* The button title to deny the timeline item */
+"client360.timeline-item.confirmation-buttons.no.title" = "否";
+/* The question if the timeline item has happened or not */
+"client360.timeline-item.confirmation-buttons.question.title" = "该事件发生了吗？";
+/* The button title to confirm the timeline item */
+"client360.timeline-item.confirmation-buttons.yes.title" = "是";
+/* The message to show when confirm timeline item has failed */
+"client360.timeline-item.confirmation.confirm-failed.title" = "未能确认该事件。请重试。";
+/* The message to show when deny timeline item has failed */
+"client360.timeline-item.confirmation.deny-failed.title" = "未能移除该事件。请重试。";
+/* Title for the 'ADD' button to create a new timeline event */
+"client360.timeline.button.add.title" = "添加";
+/* The default title to show on the timeline item for a consultation */
+"client360.timeline.consultation.title" = "咨询";
+/* The type of a consultation that is in-store */
+"client360.timeline.consultation.type.instore.title" = "店内";
+/* The type of a consultation that is virtual */
+"client360.timeline.consultation.type.virtual.title" = "在线";
+/* The default title to show on the timeline item for a curator entry */
+"client360.timeline.curator.title" = "策展";
+/* Title for the view shown on the screen when there are no timeline items */
+"client360.timeline.empty.subtitle" = "无待办事项";
+/* Title for the view shown on the screen when there are no timeline items */
+"client360.timeline.empty.title" = "无待办事项";
+/* Title for the consultation filter type */
+"client360.timeline.filters.consultation.title" = "咨询";
+/* Title for the important date filter type */
+"client360.timeline.filters.important-date.title" = "重要日期";
+/* Title for the newsletter filter type */
+"client360.timeline.filters.newsletter.title" = "通讯";
+/* Title for the nps filter type */
+"client360.timeline.filters.nps.title" = "NPS";
+/* Title for the outreach filter type */
+"client360.timeline.filters.outreach.title" = "外展";
+/* Title for the transaction filter type */
+"client360.timeline.filters.transaction.title" = "交易";
+/* Title for the headline in the timeline section */
+"client360.timeline.heading.title" = "待办事项";
+/* The default title to show on the timeline item for an important date */
+"client360.timeline.important-date.title" = "重要日期";
+/* The default 'sent by' entity to show on the timeline item for a newsletter */
+"client360.timeline.newsletter.sentBy" = "总部";
+/* The default title to show on the timeline item for a given newsletter */
+"client360.timeline.newsletter.title" = "通讯";
+/* The title to show on the timeline nps item */
+"client360.timeline.nps.title" = "NPS 调查";
+/* The default title to show on the timeline item for a postal outreach */
+"client360.timeline.outreach.postal.title" = "通过邮寄联系";
+/* The default title to show on the timeline item for an outreach */
+"client360.timeline.outreach.title" = "外展";
+/* The default title to show on the timeline item for an pay by link outreach */
+"client360.timeline.pay-by-link.title" = "通过链接支付";
+/* The default title to show on the timeline item for a given product share */
+"client360.timeline.product-share.title" = "产品分享";
+/* The format to use for the footer in an a timeline item. The first placeholder is the client advisor's name and the second is the store name. */
+"client360.timeline.timeline-item.footer.advisor-and-store.format" = "%1$@, %2$@";
+/* The label to show when the user taps the copy button */
+"client360.timeline.transaction.id-copied.title" = "交易 ID 已复制";
+/* The subtitle for the transaction event type that is in store */
+"client360.timeline.transaction.in-store.title" = "店内";
+/* The subtitle for the transaction event type that is a pay by link */
+"client360.timeline.transaction.payByLink.title" = "通过链接支付";
+/* The title of the expired status in pay by link timeline item */
+"client360.timeline.transaction.status.expired.title" = "过期";
+/* The title of the paid status in pay by link timeline item */
+"client360.timeline.transaction.status.paid.title" = "已付款";
+/* The title of the pending status in pay by link timeline item */
+"client360.timeline.transaction.status.pending.title" = "挂起";
+/* The title of the unknown status in pay by link timeline item */
+"client360.timeline.transaction.status.unknown.title" = "未知";
+/* The default title to show on the timeline item for a transaction */
+"client360.timeline.transaction.title" = "交易";
+/* The text to show when a transaction was made online */
+"client360.timeline.transaction.virtual.footer.title" = "在线";
+/* The title for the client information section in a transaction details screen */
+"client360.transactions.additional-details.client-information.title" = "客户信息";
+/* The title for the payment information section in a transaction details screen */
+"client360.transactions.additional-details.payment-information.title" = "付款信息";
+/* The title for the line item for billing address */
+"client360.transactions.address-section.billing.title" = "账单地址";
+/* The title for the line item for shipping address */
+"client360.transactions.address-section.shipping.title" = "收货地址";
+/* The title of the close button in the navigation bar */
+"client360.transactions.navigation-bar.leading.close" = "关闭";
+/* The title of the subtotal line item in the transaction details pricing section */
+"client360.transactions.pricing.subtotal.title" = "小计";
+/* The title of the taxes line item in the transaction details pricing section */
+"client360.transactions.pricing.taxes.title" = "税款";
+/* The title of the total line item in the transaction details pricing section */
+"client360.transactions.pricing.total.title" = "总计";
+/* The title of the line item that displays the payment ID */
+"client360.transactions.sections.pay-by-link.paymentId.title" = "付款 ID";
+/* The title of the line item that displays the payment status */
+"client360.transactions.sections.pay-by-link.status.title" = "状态";
+/* Title for the transactions screen */
+"client360.transactions.title" = "交易";
+/* The subtitle of the button to confirm changes to a client's record. This explains the action tapping on the button will have. */
+"clients.edit-client.confirmation.confirm-button.subtitle" = "客户将收到通知";
+/* The title of the button to confirm changes to a client's record */
+"clients.edit-client.confirmation.confirm-button.title" = "应用并通知客户";
+/* The title for the screen that shows a summary of changes to a client's record before confirming them and saving them */
+"clients.edit-client.confirmation.navigation-bar.title" = "确认更改";
+/* The title for the section that shows the updates that will be applied to the client's profile */
+"clients.edit-client.confirmation.section.title" = "更新";
+/* The title of the cancel editing a client's profile */
+"clients.edit-client.navigation-bar.leading.cancel" = "取消";
+/* The title of the screen to edit a client */
+"clients.edit-client.navigation-bar.title" = "编辑客户";
+/* The title of the save button when editing a client's profile */
+"clients.edit-client.navigation-bar.trailing.next" = "下一步";
+/* The create client button title for in client search */
+"clients.search.create-client-button.title" = "创建新客户端";
+/* Empty view subtitle when there are no clients */
+"clients.search.empty.subtitle" = "非常抱歉，我们没有找到任何符合条件的客户。";
+/* Empty view title when there are no clients */
+"clients.search.empty.title" = "没有找到相应匹配";
+/* Title for the client search navigation bar when accessed from the client list form */
+"clients.search.form.navigationBar.title" = "选择客户";
+/* Title for the navigation bar button that cancel the client search */
+"clients.search.navigationBar.leading.cancel" = "取消";
+/* Placeholder for the search bar while searching for clients */
+"clients.search.navigationBar.search.placeholder" = "搜索客户";
+/* Default client search view title */
+"clients.search.navigationBar.title" = "搜索客户";
+/* Title for the done button in the client search navigation bar */
+"clients.search.navigationBar.trailing.done" = "完成";
+/* Title for button when clearing recent clients searches */
+"clients.search.recently-searched.alert.clear-confirmation.button.title" = "清除";
+/* Message for the alert when clearing recent clients searches */
+"clients.search.recently-searched.alert.clear-confirmation.message" = "您确定要清除搜索记录吗？";
+/* The title for the alert when clearing recent clients searches */
+"clients.search.recently-searched.alert.clear-confirmation.title" = "清除搜索记录？";
+/* The help text body in the recently searched clients view */
+"clients.search.recently-searched.help.body" = "您可以使用客户的名字或姓氏、电子邮件、电话号码或客户ID搜索客户。";
+/* The placeholder for the searchbar in client search */
+"clients.search.searchBar.placeholder" = "搜索客户";
+/* The title for the button in the instructions to confirm an appointment */
+"confirm-appointment.button.title" = "确认并发送预约";
+/* The format for the instructions in the appointment. The first placeholder is the date of an appointment, the second placeholder is the time of the appointment and the third placeholder is a theme for the appointment. For example, in English: '12th June at 13:00\nCustomer Care'. */
+"confirm-appointment.instructions.format" = "%1$@ %2$@\n%3$@";
+/* The title for the instructions to confirm an appointment */
+"confirm-appointment.instructions.title" = "预约审核";
+/* The subtitle for the confirm appointment view */
+"confirm-appointment.subtitle" = "确认预约将向您的访客发送包含事件详情的通知。自动提醒也会定期及时发送，包括说明。";
+/* The title for the confirm appointment view */
+"confirm-appointment.title" = "确认并发送！";
+/* The title for the button in the instructions to confirm delete an appointment */
+"confirm-delete-appointment.button.title" = "取消预约并通知客人";
+/* The title for the confirm delete appointment screen to be displayed in the navigation bar. */
+"confirm-delete-appointment.navigation-bar.title" = "编辑预约";
+/* The subtitle for the confirm delete appointment view */
+"confirm-delete-appointment.subtitle" = "取消预约也将向您的客人发送通知。";
+/* The title for the confirm delete appointment view */
+"confirm-delete-appointment.title" = "取消预约？";
+/* The title of the curator share search client navigation bar */
+"curator-share.navigationBar.title" = "分享策展";
+/* The title for the dashboard filters done button */
+"dashboard.filters.done" = "完成";
+/* The title for the dashboard filters */
+"dashboard.filters.title" = "筛选条件";
+/* The title for default filter button on the dashboard heading */
+"dashboard.heading.button.title" = "筛选条件";
+/* The title for the dashboard heading */
+"dashboard.heading.title" = "概要面板";
+/* The error description to present when the device authentication has failed */
+"device-authentication.error.description" = "为了执行这一操作,我们需要使用设备验证。";
+/* The error title to present when the device authentication has failed */
+"device-authentication.error.title" = "设备验证失败";
+/* The reason to show on the passcode authentication before creating a client */
+"device-authentication.reason.create-client" = "创建一个新客户端";
+/* Title for delete appointment button in edit appointment screen */
+"edit-appointment.delete-button.title" = "删除预约";
+/* Title for edit appointment navigation bar */
+"edit-appointment.navigationBar.title" = "编辑预约";
+/* Title for a general error view */
+"error-view.title" = "无法获得数据";
+/* Description of an error due to connection fail */
+"errors.connection.description" = "很抱歉，我们无法获取您的数据。请确保您已连接到 Wifi 或任何其他数据提供商。";
+/* Title of an error due to connection fail */
+"errors.connection.title" = "连接失败";
+/* Description of an unspecified error from the server. */
+"errors.data.description" = "很抱歉，检索中出现了一些问题，我们无法获取您的数据。";
+/* Title of an unspecified error from the server. */
+"errors.data.title" = "哎呀！";
+/* Description of an error when results are empty */
+"errors.empty-results.description" = "很抱歉，没有找到任何数据。";
+/* Title of an error when results are empty */
+"errors.empty-results.title" = "没有记录";
+/* The title for clear filters button */
+"filters.clear.button.title" = "清除筛选条件";
+/* The total matched items title in filter item. The placeholder is the total items intager. */
+"filters.item.total-items.title" = "(%1$li)";
+/* Title for the navigation bar button that cancel the filters selection */
+"filters.navigationBar.leading.cancel" = "取消";
+/* Title of the button to clear the signature */
+"form.signature.clear.button.title" = "清除签名";
+/* The subtitle clearing out the aim of the signature */
+"form.signature.subtitle" = "如果您同意并认可上述内容,请在此签名";
+/* The title of the signature form */
+"form.signature.title" = "签名";
+/* The format to use when creating a date and slot string. The first placeholder is the date and the second placeholder is the time interval. */
+"formatters.date-and-slot.format" = "%1$@：%2$@";
+/* The full date format to use for past date format. The first placeholder is the date and the second placeholder is the time. */
+"formatters.past-date.full-date-time.format" = "%1$@, %2$@";
+/* The format to use for past date format when the date is in the past 59 seconds */
+"formatters.past-date.now.format" = "现在";
+/* The format to use for past date format when the date is in the past 59 minutes. The placeholder is the minutes count. */
+"formatters.past-date.past-minutes.format" = "%li分钟前";
+/* The title of the badge for an edited field where a value was added */
+"forms.edited-field.added-badge.title" = "已添加";
+/* The title of the badge for an edited field where a value was removed */
+"forms.edited-field.removed-badge.title" = "已移除";
+/* The title of the badge for an edited field where a value was updated */
+"forms.edited-field.updated-badge.title" = "已更新";
+/* The default retry button title */
+"general.error.button.retry.title" = "重试";
+/* Generic text to show when information is not available */
+"general.not-available" = "无";
+/* A default message to show in a toast view when a value is copied to the pasteboard */
+"general.value-copied.success.title" = "值已复制";
+/* The title to show instead of the value when the selected value is invalid for birthday field in generic form */
+"generic-form.field.birthday.invalid-selection.title" = "无效的日期";
+/* The default placeholder for birthday field in generic form */
+"generic-form.field.birthday.placeholder" = "选择一个日期";
+/* Title error title for date and slots field options */
+"generic-form.field.date-and-slots.options.error.title" = "加载数据时出错，轻点以重试";
+/* The default placeholder for date field in generic form */
+"generic-form.field.date.placeholder" = "选择一个日期";
+/* The title for clear button in inline picklist generic form field */
+"generic-form.field.inline-picklist.clear-button.title" = "清除";
+/* The title for done button in inline picklist generic form field */
+"generic-form.field.inline-picklist.done-button.title" = "完成";
+/* The title for edit button in inline picklist generic form field */
+"generic-form.field.inline-picklist.edit-button.title" = "编辑";
+/* Done button title in the nested picklist field page */
+"generic-form.field.picklist.done-button" = "完成";
+/* Title error title for picklist options */
+"generic-form.field.picklist.options.error.title" = "加载数据时出错，轻点以重试";
+/* The placeholder for a field in generic form with readonly status */
+"generic-form.field.readonly.placeholder" = "无";
+/* The title for count of characters in textarea generic form field. First placeholder is the current characters count and second is the maximum allowed characters. */
+"generic-form.field.textarea.characters-count.title" = "%1$li/%2$li";
+/* The default placeholder for time field in generic form */
+"generic-form.field.time.placeholder" = "选择时间";
+/* Message for alert shown when saving a generic form */
+"generic-form.save.error.message" = "保存失败。请重试";
+/* Title for alert shown when saving a generic form */
+"generic-form.save.error.title" = "保存失败";
+/* The format of a labeled value. In English, this will simply be the value passed in with a colon at the end. */
+"labeled-value.label.format" = "%1$@ ：";
+/* Title of the delete list button */
+"list.edit.button.delete" = "删除列表";
+/* Placeholder for title for creating a new list */
+"list.form-field.list-name.placeholder" = "命名您的新列表";
+/* Title for the name field in the form */
+"list.form-field.list-name.title" = "列表名称";
+/* Text to show when there are no clients selected */
+"list.form-field.selected-clients.no-clients-selected" = "没有任何选定的客户";
+/* Title for the selected clients field in the form */
+"list.form-field.selected-clients.title" = "选择客户";
+/* The title of the login button in the login screen */
+"login.button.title" = "登录";
+/* The text to show when an error occures when logging in */
+"login.error.title" = "发生错误，请再试一次。";
+/* The text to show while we are getting the user's data after logging in */
+"login.processing.title" = "正在检索数据，请稍等...";
+/* The title for done button on the nested list */
+"nested-filter.navigationBar.trailing.done" = "完成";
+/* The empty title of the selected items on nested filter */
+"nested-filter.selectedItems.empty" = "选择内容";
+/* Subtitle for notification center empty unread data subtitle */
+"notification-center.empty-unread.subtitle" = "看起来您已阅读所有通知。";
+/* Title for notification center empty unread data title */
+"notification-center.empty-unread.title" = "无未读通知";
+/* Subtitle for notification center empty data subtitle */
+"notification-center.empty.subtitle" = "看起来您还没有任何通知。";
+/* Title for notification center empty data title */
+"notification-center.empty.title" = "无通知";
+/* The title for the notification that tells the user an appointment was created by another user */
+"notification-center.items.appointment-created-other-user.title" = "新预约已分配给您。";
+/* The title for the notification that tells the user an appointment IN THE FUTURE was cancelled by another user. The first placeholder is the week day and the second is time of the appointment. */
+"notification-center.items.appointment-future-cancelled-other-user.title" = "您在%1$@ %2$@ 的预约已取消";
+/* The title for the notification that tells the user an appointment THIS WEEK was cancelled by another user. The first placeholder is the week day and the second is time of the appointment. */
+"notification-center.items.appointment-this-week-cancelled-other-user.title" = "您在%1$@ %2$@ 的预约已取消";
+/* The title for the notification that tells the user an appointment TODAY was cancelled by another user. The first placeholder is the time of the appointment. */
+"notification-center.items.appointment-today-cancelled-other-user.title" = "您在 %1$@ 的预约已取消";
+/* The title for the notification that tells the user an appointment TOMORROW was cancelled by another user. The first placeholder is the time of the appointment. */
+"notification-center.items.appointment-tomorrow-cancelled-other-user.title" = "您在明天 %1$@ 的预约已取消";
+/* The title for the notification that tells the user they have met their performance goal */
+"notification-center.items.dashboard-performance-achieved.title" = "您的业绩目标已实现。";
+/* The title for the notification that tells the user that there is new activity in a very important client */
+"notification-center.items.new-activity-vic.title" = "您的 VIC 个人资料中有新活动。";
+/* The title for the notification that tells the user a new client was assigned to them */
+"notification-center.items.new-client-assigned.title" = "为您分配了新客户";
+/* The title for the notification that tells the user a new featured list is available */
+"notification-center.items.new-featured-list.title" = "已发布新的特色列表";
+/* The title for the notification that tells the user a new NPS feedback is available */
+"notification-center.items.new-nps.title" = "收到新的 NPS";
+/* The title for the notification that tells the user that their appointment is starting soon. The first placeholder is the time of the appointment and the second one is the number of minutes left until the appointment starts. */
+"notification-center.items.o2m-appointment-starting.title" = "您在 %1$@ 的一对一预约将在 %2$@ 分钟后开始！";
+/* The title for the notification that tells the user that their appointment is starting soon. The first placeholder is the time of the appointment and the second one is the number of minutes left until the appointment starts. */
+"notification-center.items.o2o-appointment-starting.title" = "您在 %1$@ 的一对多预约将在 %2$@ 分钟后开始！";
+/* The title for the notification that tells the user a payment has been made */
+"notification-center.items.pbl-payment-made.title" = "客户已使用 Pay-by-Link 付款";
+/* The title for the notification that tells the user a link has expired */
+"notification-center.items.pbl-url-expired.title" = "Pay-by-Link URL 已过期";
+/* Label for 'Client' */
+"notification-center.items.subtitles.label.client" = "客户";
+/* The title for the notification that tells the user that a client has completed a transaction */
+"notification-center.items.transaction-complete.title" = "客户已完成交易";
+/* Title for notification center screen */
+"notification-center.navigationBar.title" = "通知中心";
+/* Title for recent notification center section */
+"notification-center.recent-section.title" = "近期";
+/* Title for today notification center section */
+"notification-center.today-section.title" = "今天";
+/* Title for seeing all notification center items */
+"notification-center.toolbar.filter-all.title" = "所有";
+/* Title for seeing unread notification center items */
+"notification-center.toolbar.filter-unread.title" = "未读";
+/* The title of the button to continue without notifications */
+"notifications.permission-modal.continue-button.title" = "继续而不通知";
+/* The title of the button to enable notifications */
+"notifications.permission-modal.enable-button.title" = "启用通知";
+/* The title for the permissions modal's navigation bar cancel button */
+"notifications.permission-modal.navigation-bar.cancel.title" = "取消";
+/* The title for the permissions modal's navigation bar */
+"notifications.permission-modal.navigation-bar.title" = "通知";
+/* The body for the permissions modal view when we don't know if permissions have been granted. */
+"notifications.permission-modal.not-determined.body" = "启用推送通知将允许您保持更新";
+/* The title for the permissions modal view when we don't know if permissions have been granted. */
+"notifications.permission-modal.not-determined.title" = "收取通知！";
+/* The body for the permissions modal view when the user has previously declined permissions for notifications */
+"notifications.permission-modal.not-permitted.body" = "要接收推送通知，您将需要在设备设置中将其启用。";
+/* The title for the permissions modal view when the user has previously declined permissions for notifications. */
+"notifications.permission-modal.not-permitted.title" = "启用通知";
+/* The title of the button to open the settings app */
+"notifications.permission-modal.settings-button.title" = "打开设置";
+/* The format for the payment made notification. This is displayed when a notification is received. The parameter is the amount of the transaction, in the currency given in the notification payload and formatted according to the information on the user's device. */
+"notifications.push-notification.payment-made.subtitle" = "%1$@！您的客户已使用 Pay-by-Link 检出 🎉";
+/* The title for the payment made notification. */
+"notifications.push-notification.payment-made.title" = "Pay-by-link";
+/* The title of the close button in views that are presented after a navigation view */
+"notifications.window.close-button.title" = "关闭";
+/* The title for the NPS details screen */
+"nps.details.navigation-bar.title" = "客人反馈";
+/* The title for an NPS that originated after an in-store payment */
+"nps.event-source.in-store-payment.title" = "店内付款";
+/* The title for an NPS that originated after an e-commerce delivery. This is, in a screen that shows NPS (Net-Promoter-Score) this label indicates that the survey was answered 'after (post) the delivery of the e-commerce order'. This is *not* an action to 'publish' a web delivery. */
+"nps.event-source.post-web-delivery.title" = "网络支付后";
+/* The title for an NPS that originated after an e-commerce payment. This is, in a screen that shows NPS (Net-Promoter-Score) this label indicates that the survey was answered 'after (post) the payment of the e-commerce order'. This is *not* an action to 'publish' a web delivery. */
+"nps.event-source.post-web-payment.title" = "网络交付后";
+/* The title of the button that will take the user to the client profile */
+"nps.rating-details.client-profile.button.title" = "查看客户资料";
+/* The title of the button that will take the user to the full client survey details */
+"nps.summary.full-survey.button.title" = "查看完整的调查";
+/* The format for the subtitle in the survey details that shows when a survey was answered. The first placeholder is the date in medium format (MMM DD, YYYY) and the second one is the time in short format HH:MM */
+"nps.survey-details.answered-on.format" = "回答时间:%1$@ - %2$@";
+/* The title for the survey answer details screen */
+"nps.survey-details.title" = "调查详情";
+/* Title for the transaction details section */
+"nps.survey-details.transaction.section.title" = "收到的反馈:";
+/* The title of the summary section in the NPS details screen */
+"nps.survey.summary-section.title" = "摘要";
+/* The description text to display when there are no outreach channels to display to the customer advisor */
+"outreach-selection.empty.description" = "此客户没有外展渠道";
+/* The title text to display when there are no outreach channels to display to the customer advisor */
+"outreach-selection.empty.title" = "无外展渠道";
+/* The name of the app email */
+"outreach-selection.item.email" = "电子邮件";
+/* The name of the app FaceTime */
+"outreach-selection.item.facetime" = "FaceTime";
+/* The title for the label to show to send the user to the app store */
+"outreach-selection.item.install-app.label.title" = "安装应用";
+/* The title for the label to show if an outreach type is preferred */
+"outreach-selection.item.is-preferred.label.title" = "首选";
+/* The name of the app Kakao */
+"outreach-selection.item.kakao" = "Kakao";
+/* The name of the app Line */
+"outreach-selection.item.line" = "Line";
+/* The name of the app LineWorks */
+"outreach-selection.item.lineworks" = "LineWorks";
+/* The title for the label to show to allow the user to call a client */
+"outreach-selection.item.phone.label.title" = "电话";
+/* The name of the app SMS */
+"outreach-selection.item.sms" = "短信";
+/* The name of the app WeChat */
+"outreach-selection.item.wechat" = "微信";
+/* The name of the app WhatsApp */
+"outreach-selection.item.whatsapp" = "WhatsApp";
+/* Cancel button shown in the navigation bar of the outreach selection screen */
+"outreach-selection.navigation-bar.cancel.title" = "取消";
+/* Title shown in the navigation bar of the outreach selection screen */
+"outreach-selection.navigation-bar.title" = "选择渠道";
+/* Error to show to a user when we can't open the phone number URL */
+"outreach.call.error.cannotOpenURL" = "无法调用客户端（无法打开URL）";
+/* Error to show to a user when we can't build a phone number URL */
+"outreach.call.error.phoneNumberURL" = "无法调用客户端（无法建立URL）";
+/* The action for the alert when a user has denied access to his photo but still want to save some in it */
+"outreach.instructions.alert.settings.action" = "设置";
+/* The message for the alert when a user has denied access to his photo but still want to save some in it */
+"outreach.instructions.alert.settings.message" = "为了保存照片，您必须首先在设置中允许照片访问权限。";
+/* The title for the alert when a user has denied access to his photo but still want to save some in it */
+"outreach.instructions.alert.settings.title" = "允许我们访问您的照片";
+/* The title for the button that sends the user to the third party app for email */
+"outreach.instructions.continue-button.title.email" = "使用邮件应用进行下一步";
+/* The title for the button that sends the user to Kakao */
+"outreach.instructions.continue-button.title.kakao" = "使用KAKAO进行下一步";
+/* The title for the button that sends the user to line */
+"outreach.instructions.continue-button.title.line" = "使用Line进行下一步";
+/* The title for the button that sends the user to lineworks */
+"outreach.instructions.continue-button.title.lineworks" = "使用Line Works应用进行下一步";
+/* The title for the button that sends the user to the third party app for sms */
+"outreach.instructions.continue-button.title.sms" = "使用信息应用进行下一步";
+/* The title for the button that sends the user to wechat */
+"outreach.instructions.continue-button.title.wechat" = "使用微信进行下一步";
+/* The title for the button that sends the user to whatsapp */
+"outreach.instructions.continue-button.title.whatsapp" = "使用WhatsApp进行下一步";
+/* The message for the don't forget part of the instructions for email */
+"outreach.instructions.dont-forget.message.email" = "现在，您将被导向到邮件应用以继续并发送信息。";
+/* The message for the don't forget part of the instructions for line */
+"outreach.instructions.dont-forget.message.kakao" = "现在，您将被导向到Kakao应用以继续并发送信息。";
+/* The message for the don't forget part of the instructions for line */
+"outreach.instructions.dont-forget.message.line" = "现在，您将被导向到Line应用以继续并发送信息。";
+/* The message for the don't forget part of the instructions for lineworks */
+"outreach.instructions.dont-forget.message.lineworks" = "现在，您将被导向到Line Works应用以继续并发送信息。";
+/* The message for the don't forget part of the instructions for sms */
+"outreach.instructions.dont-forget.message.sms" = "现在，您将被导向到短信应用以继续并发送信息。";
+/* The message for the don't forget part of the instructions for wechat */
+"outreach.instructions.dont-forget.message.wechat" = "现在，您将被导向到微信应用以继续并发送信息。";
+/* The message for the don't forget part of the instructions for whatsapp */
+"outreach.instructions.dont-forget.message.whatsapp" = "现在，您将被导向到WhatsApp应用以继续并发送信息。";
+/* The title for the don't forget part of the instructions */
+"outreach.instructions.dont-forget.title" = "别忘了！";
+/* The label to show in the outreach instructions screen for the action Insert photos */
+"outreach.instructions.insert-photos.title" = "插入资产";
+/* The navigation bar title of the outreach instructions scene */
+"outreach.instructions.navigation-bar.title" = "下一步";
+/* The label to show in the outreach instructions screen for the action Paste message */
+"outreach.instructions.paste-message.title" = "粘贴信息";
+/* The title for the bottom button when download and saving product pictures */
+"outreach.instructions.saving-pictures.title" = "正在保存资产……";
+/* The label to show in the outreach instructions screen for the action Select client */
+"outreach.instructions.select-client.title" = "选择客户";
+/* The outreach instructions title for email */
+"outreach.instructions.title.email" = "邮件的说明";
+/* The outreach instructions title for Kakao */
+"outreach.instructions.title.kakao" = "Kakao 说明";
+/* The outreach instructions title for line */
+"outreach.instructions.title.line" = "Line的说明";
+/* The outreach instructions title for lineworks */
+"outreach.instructions.title.lineworks" = "Line Works的说明";
+/* The outreach instructions title for sms */
+"outreach.instructions.title.sms" = "信息的说明";
+/* The outreach instructions title for wechat */
+"outreach.instructions.title.wechat" = "微信的说明";
+/* The outreach instructions title for whatsapp */
+"outreach.instructions.title.whatsapp" = "WhatsApp的说明";
+/* The title for the toggle button in the instructions view */
+"outreach.instructions.toggle.title" = "将产品资产保存到您的相册";
+/* Title for the 'Select language' screen in outreach */
+"outreach.languages.navigationBar.title" = "选择语言";
+/* Title for the outreach message form scene */
+"outreach.message.form.navigationBar.title" = "新信息";
+/* Placeholder for message line when editing a message in outreach */
+"outreach.message.input.message.placeholder" = "在这里输入您的信息";
+/* Title for message input field in outreach */
+"outreach.message.input.message.title" = "信息";
+/* Placeholder for subject line when editing a message in outreach */
+"outreach.message.input.subject.placeholder" = "在这里输入您的主题";
+/* Title for subject input field in outreach */
+"outreach.message.input.subject.title" = "主题";
+/* Button for navigation bar in outreach 'Next' */
+"outreach.navigationBar.trailing.title" = "下一个";
+/* A title to show above the email to tell the user they can edit it on the next step */
+"outreach.template-preview.email-notice.title" = "您可以在下一步中编辑电子邮件";
+/* The title for the form field in language selection */
+"outreach.template-selection.languages.form.title" = "语言";
+/* Title for the navigation bar button that cancel the template selection */
+"outreach.template-selection.navigationBar.leading.title" = "取消";
+/* Title for the screen where the user selects templates */
+"outreach.template-selection.navigationBar.title" = "模板";
+/* Title for the navigation bar button that moves from template selection to template editing */
+"outreach.template-selection.navigationBar.trailing.title" = "下一个";
+/* Title for the 'No template' default template */
+"outreach.templates.blank-template.name" = "没有模板";
+/* Preview for the 'No template' default template */
+"outreach.templates.blank-template.preview" = "不使用预定义模板发送信息";
+/* Title for the 'All languages' language to be displayed in the template selection */
+"outreach.templates.languages.all-languages.title" = "所有语言";
+/* Toast message to show when an outreach failed with an error. The error's description is passed in as a parameter. */
+"outreach.toast.error" = "推广失败";
+/* Message to show on a toast view when a user cannot use calling */
+"outreach.toast.error.no-call-available.title" = "此设备不能打电话";
+/* Message to show on a toast view when a user cannot use emailing */
+"outreach.toast.error.no-email-available.title" = "电子邮件在此设备上不可用";
+/* Message to show on a toast view when a user cannot use FaceTime */
+"outreach.toast.error.no-facetime-available.title" = "FaceTime 在此设备上不可用";
+/* Message to show on a toast view when a user cannot use text messaging */
+"outreach.toast.error.no-sms-available.title" = "短信在此设备上不可用";
+/* Message to show on a toast view when a the pictures download has failed */
+"outreach.toast.error.pictures-download.title" = "保存图像失败，请重试！";
+/* Toast message to show when an outreach failed with an unknown error */
+"outreach.toast.error.unknown.title" = "推广失败：错误未知。";
+/* Toast message to show when outreach was successful */
+"outreach.toast.success.title" = "信息已发送";
+/* Title for the navigation bar button that cancel the attribute selection in pay-by-link */
+"pay-by-link.attribute-selection.navigation-bar.leading.cancel" = "取消";
+/* Title for the navigation bar in attribute selection for pay-by-link */
+"pay-by-link.attribute-selection.navigation-bar.title" = "选择条件";
+/* Title for the navigation bar button 'Done' in attribute selection in pay-by-link */
+"pay-by-link.attribute-selection.navigation-bar.trailing.done" = "完成";
+/* The title for the client search navigation bar when accessed from the pay by link form */
+"pay-by-link.clients.search.form.navigationBar.title" = "客户";
+/* The title for the pay by link confirmation screen */
+"pay-by-link.confirm-order.action-sheet.copy-button.title" = "复制按链接付款";
+/* Title for button when canceling closing form */
+"pay-by-link.confirm-order.alert.close-confirmation.cancel-button.title" = "返回";
+/* Title for button when closing form */
+"pay-by-link.confirm-order.alert.close-confirmation.done-button.title" = "离开";
+/* Message for the alert when closing the form */
+"pay-by-link.confirm-order.alert.close-confirmation.message" = "您确定要离开此页面而不发送按链接付款吗？";
+/* Title for the alert when closing form */
+"pay-by-link.confirm-order.alert.close-confirmation.title" = "离开页面？";
+/* Title for the navigation bar button that cancel the pay-by-link */
+"pay-by-link.confirm-order.navigation-bar.leading.cancel" = "取消";
+/* The title for the pay by link confirmation screen */
+"pay-by-link.confirm-order.navigation-bar.title" = "共享按链接付款";
+/* Title of the share button */
+"pay-by-link.confirm-order.order-options.title" = "订购选项";
+/* Title of the products section */
+"pay-by-link.confirm-order.product-section.title" = "产品";
+/* The label for the quantity in each of the items in the curator */
+"pay-by-link.confirm-order.product.quantity.title" = "数量：";
+/* Title of the send payment link button */
+"pay-by-link.confirm-order.send-payment-button.title" = "发送付款链接";
+/* The text to show in the toast message when a user copies the payment URL */
+"pay-by-link.copy.copy-success-toast.title" = "按链接付款已被复制";
+/* The title in the navigation bar for done button in pay by link */
+"pay-by-link.copy.navigation-bar.done-button.title" = "完成";
+/* The title in the navigation bar for the copy view in pay by link */
+"pay-by-link.copy.navigation-bar.title" = "复制按链接付款";
+/* The placeholder for choosing a client field on pay by link create order screen */
+"pay-by-link.create-order.client-field.placeholder" = "选择一个客户";
+/* The title for choosing a client field on pay by link create order screen */
+"pay-by-link.create-order.client-field.title" = "客户";
+/* The placeholder for choosing delivery method field on pay by link create order screen */
+"pay-by-link.create-order.delivery-field.placeholder" = "选择送货";
+/* The title for choosing delivery method field on pay by link create order screen */
+"pay-by-link.create-order.delivery-field.title" = "交货";
+/* The done button title for creating an order (while loading) on pay by link create order screen */
+"pay-by-link.create-order.doneButton.loading.title" = "创建订单";
+/* The done button title for creating an order on pay by link create order screen */
+"pay-by-link.create-order.doneButton.title" = "创建订单";
+/* An error to show when in pay by link, the user hasn't selected all required attributes */
+"pay-by-link.create-order.error.missing-attributes.title" = "必须选择所有产品条件";
+/* An error to show when in pay by link, the user hasn't selected a client */
+"pay-by-link.create-order.error.selected-client.title" = "必须选择客户";
+/* An error to show when in pay by link, the user hasn't selected a delivery method */
+"pay-by-link.create-order.error.selected-delivery-method.title" = "必须选择配送方式";
+/* Title for the navigation bar button that cancel the pay-by-link */
+"pay-by-link.create-order.navigation-bar.leading.cancel" = "取消";
+/* The title of the pay by link navigation bar */
+"pay-by-link.create-order.navigation-bar.title" = "通过链接共享付款";
+/* The title appears on the order options section on pay by link create order screen */
+"pay-by-link.create-order.order-options.title" = "订购选项";
+/* Text to show on a label that allows the user to edit the product in pay by link */
+"pay-by-link.create-order.product-row.edit-criteria.title" = "选择条件";
+/* The text to show when an attribute is required but has not been selected */
+"pay-by-link.create-order.product-row.required-attribute.title" = "必需";
+/* The label for the quantity in each of the items in the curator */
+"pay-by-link.create-order.product.quantity.title" = "数量：";
+/* The done button title for choosing delivery methods when accessed from the pay by link form */
+"pay-by-link.delivery-methods.navigationBar.button.done" = "完成";
+/* The title for the delivery methods navigation bar when accessed from the pay by link form */
+"pay-by-link.delivery-methods.navigationBar.title" = "交货";
+/* The placeholder for searching in product catalog */
+"product-catalog.search.placeholder" = "搜索产品";
+/* The title of the button to send payment link in product curator */
+"product-curator.actions.send-payment-link.button.title" = "发送付款链接";
+/* The title of the curator share action */
+"product-curator.actions.share-curator" = "分享策展";
+/* The title of the button to share products in product curator */
+"product-curator.actions.share-products.button.title" = "分享产品";
+/* Title for Cancel button in alert asking user if they want to clear the curator */
+"product-curator.alert.clear.button.cancel.title" = "取消";
+/* Title for 'Clear' button in alert asking user if they want to clear the curator */
+"product-curator.alert.clear.button.clear.title" = "清除";
+/* Message for alert asking user if they want to clear the curator */
+"product-curator.alert.clear.message" = "您确定要从该管理器中删除所有项目吗？";
+/* Title for alert asking user if they want to clear the curator */
+"product-curator.alert.clear.title" = "清除管理器？";
+/* The title of edit assets in curator cell */
+"product-curator.cell.edit-assets.title" = "编辑";
+/* The message to show in the toast view when an error occurs clearing the curator */
+"product-curator.clear.toast.error.title" = "清除策展人时出错。请再试一次。";
+/* The description of the error view when the curator is empty */
+"product-curator.empty.description" = "您尚未将任何产品添加到管理器。请访问产品目录以浏览和选择产品。";
+/* The title of the error view when the curator is empty */
+"product-curator.empty.title" = "管理器为空！";
+/* Title of clear button in product curator */
+"product-curator.navigation-bar.clear.title" = "清除";
+/* Title of close button in product curator */
+"product-curator.navigation-bar.close.title" = "关闭";
+/* Title of navigation bar in product curator */
+"product-curator.navigation-bar.title" = "管理器";
+/* The message to show in the toast view when an error occurs removing an item from the curator */
+"product-curator.remove-item.toast.error.title" = "从策展人中删除此项目时出错。请再试一次。";
+/* The title of add to curator action in the action sheet */
+"product-details.actions.add-to-curator" = "添加到管理器";
+/* The toaster error of add to curator action in the action sheet */
+"product-details.actions.add-to-curator.error.title" = "无法添加到策展名单";
+/* The loading message to show when we're adding a product to the curator */
+"product-details.actions.add-to-curator.loading" = "将产品添加至策展人……";
+/* The title for the notification that shows a product has been added to the curator. */
+"product-details.actions.add-to-curator.notification.title" = "%@ 已添加到策展名单";
+/* The title of check stock details action in the product actions */
+"product-details.actions.check-stock-details" = "查看库存详情";
+/* The title of the product share action in the action sheet */
+"product-details.actions.menu.share-product" = "分享产品";
+/* The title of the similar products action in the product actions */
+"product-details.actions.menu.similar-products" = "查找类似产品";
+/* The title of the pay by link action in the action sheet */
+"product-details.actions.pay-by-link" = "通过链接共享付款";
+/* The title of remove from curator action in the action sheet */
+"product-details.actions.remove-from-curator" = "从策展名单移除";
+/* The toaster error of remove from curator action in the action sheet */
+"product-details.actions.remove-from-curator.error.title" = "无法从策展名单移除";
+/* The title for the notification that shows a product has been removed from the curator. */
+"product-details.actions.remove-from-curator.notification.title" = "%@ 已从策展名单移除";
+/* The title of the product share action in the action sheet */
+"product-details.actions.share-product" = "分享产品";
+/* The title of the similar products action in the product actions */
+"product-details.actions.similar-products" = "同类产品";
+/* The title of stock privacy action in the action sheet in detail mode */
+"product-details.actions.stockPrivacy.hide" = "隐藏库存详情";
+/* The title of stock privacy action in the action sheet in privacy mode */
+"product-details.actions.stockPrivacy.show" = "显示库存详情";
+/* The placeholder to show when there is no item selected in the nested attribute row in product details. The placeholder is the attribute title. */
+"product-details.attributes.nested-list.placeholder" = "选择一个选项";
+/* Title for the navigation bar button that cancel the product attribute selection */
+"product-details.attributes.selection.cancel.title" = "取消";
+/* The description to show in product details attribute selection screen */
+"product-details.attributes.selection.description" = "依照您选择的条件显示可得性：";
+/* The text to show for the done button when selecting an attribute in product details */
+"product-details.attributes.selection.done.title" = "完成";
+/* The subtitle to show for empty attribute items in product details attribute selection screen */
+"product-details.attributes.selection.empty.subtitle" = "您所选择的条件组合没有%1$@选项。";
+/* The title to show for empty attribute items in product details attribute selection screen */
+"product-details.attributes.selection.empty.title" = "没有可用的选项";
+/* The format to use to display a selected attribute. First placeholder is the attribute title and second is the selected attribute value */
+"product-details.attributes.selection.remove-attribute.format" = "%1$@：%2$@";
+/* The text to show for attribute value when attribute items is empty in product details */
+"product-details.attributes.value-no-items.title" = "无";
+/* Title of close button in navigation bar */
+"product-details.navigation-bar.close.title" = "关闭";
+/* A text to appear in a toast message when a user copies the product SKU */
+"product-details.product-info.sku-copied.title" = "产品 SKU 已复制";
+/* The title of the similar products button */
+"product-details.similar-products.button.title" = "同类产品";
+/* The label to show in the product details screen when stock information is displayed */
+"product-details.stock-information.caption.hide" = "点击以隐藏库存";
+/* The caption shown if attributes (size, coulour, material) are missing to check the stock */
+"product-details.stock-information.caption.missing-attributes" = "请注明指标分析检查库存";
+/* The label to show in the product details screen when stock information is behind a privacy control */
+"product-details.stock-information.caption.show" = "点击以显示库存";
+/* The title to show on the stock details button */
+"product-details.stock-information.details-button.title" = "查看库存详情";
+/* The format to use when too many colors are available and we have to show a number instead of the colors. */
+"product-list.cell.additional-colors.format" = "+%1$@";
+/* The text to show for the filter done button in product lists */
+"product-list.filter.done.title" = "完成";
+/* The text to show for the sort done button in product lists */
+"product-list.sort.done.title" = "完成";
+/* The text to show for the filter button in product lists */
+"product-list.toolbar.filter.title" = "筛选";
+/* The text to show in the product toolbar while fetching new results */
+"product-list.toolbar.loading.title" = "正在更新……";
+/* The text to show in the product list with the number of matched products in the variable */
+"product-list.toolbar.matched-products.title" = "%li项已匹配";
+/* The text to show for the sort button in product lists */
+"product-list.toolbar.sort.title" = "排序";
+/* The title of the product share navigation bar */
+"product-share.navigationBar.title" = "分享产品";
+/* The subtitle of the product stock empty view */
+"product-stock.empty-view.subtitle" = "很抱歉，本产品附近门店缺货";
+/* The title of the product stock empty view */
+"product-stock.empty-view.title" = "缺货";
+/* The product stock last updated title */
+"product-stock.last-updated.title" = "最近更新时间";
+/* The title of the Product stock string, in the navigation bar */
+"product-stock.navigation-bar.title" = "库存详情";
+/* Title for the navigation bar button that closes the product stock display */
+"product-stock.navigationBar.leading.done" = "完成";
+/* The title of the label in a product attributes view that will contract the content to its collapsed mode */
+"product.attributes.contract-cta.title" = "显示更少";
+/* The title of the label in a product attributes view that will expand the content to its full height */
+"product.attributes.expand-cta.title" = "显示更多";
+/* The price is not available it is 'Price On Demand' */
+"product.price.on-demand" = "按需价格";
+/* The format to display the score over the maximum score available. The first parameter is the score and the second one is the maximum score. */
+"progress.score.format" = "%1$@/%2$@";
+/* The title of the clear button in the recently searched view */
+"search.recently-searched.clearButton.title" = "清除";
+/* The help text title in the recently searched view */
+"search.recently-searched.help.title" = "需要帮忙？";
+/* The title in the recently searched view */
+"search.recently-searched.title" = "最近搜索记录";
+/* Title for the navigation bar button that cancel a selection list */
+"selection-list.navigationBar.leading.cancel" = "取消";
+/* The title for clear selection button */
+"selection.clear.button.title" = "清除选择";
+/* Title for 'Languages' button in settings */
+"settings.actions.languages.title" = "语言";
+/* Title for 'logout' button in settings */
+"settings.actions.logout.title" = "退出登录";
+/* Title for 'My profile' button in settings */
+"settings.actions.my-profile.title" = "我的个人信息页";
+/* Title for 'Themes' button in settings */
+"settings.actions.themes.title" = "主题";
+/* Cancel button title for alert asking user to confirm they want to log out */
+"settings.logout.alert.button.cancel.title" = "取消";
+/* Button title for alert asking user to confirm they want to log out */
+"settings.logout.alert.button.confirm.title" = "退出登录";
+/* Message for alert asking user to confirm they want to log out */
+"settings.logout.alert.message" = "您确定要退出登录吗？";
+/* Title for alert asking user to confirm they want to log out */
+"settings.logout.alert.title" = "退出登录？";
+/* Title for 'Settings' screen */
+"settings.navigationBar.title" = "设置";
+/* Title for 'My profile' screen in settings */
+"settings.profile.navigationBar.title" = "我的个人信息页";
+/* The text to show on a toast message in Settings when mail failed to send */
+"settings.toast.error.mail-send-failed.title" = "发生错误。再试一次。";
+/* The text to show on a toast message in Settings when mail is unavailable on your device */
+"settings.toast.error.mail-unavailable.title" = "邮件在此设备上不可用";
+/* The text to show when an email was sent successfuly to the CRM team */
+"settings.toast.success.mail-sent.title" = "邮件已发送";
+/* A string to show while the SDK records the interaction */
+"share-data.interaction.notice-message.title" = "正在记录互动……";
+/* Placeholder for searching clients in the share data screen */
+"share-data.navigationBar.client-searchbar.placeholder" = "搜索客户";
+/* Title for the navigation bar button that cancel the share data screen */
+"share-data.navigationBar.leading.cancel" = "取消";
+/* The tab icon title for Appointments */
+"tab.appointments.title" = "预约";
+/* The tab icon title for Product catalogue */
+"tab.catalog.title" = "产品";
+/* The tab icon title for Clients */
+"tab.clients.title" = "客户";
+/* The tab icon title for Dashboard */
+"tab.dashboard.title" = "概要面板";
+/* The tab icon title for Settings */
+"tab.settings.title" = "设置";
+/* Empty view subtitle when there are no templates */
+"template-selection.empty.subtitle" = "没有支持该语言的模板。";
+/* Empty view title when there are no templates */
+"template-selection.empty.title" = "没有找到模板";
+/* Title in navigation bar for theme selection */
+"theme.navigation-bar.title" = "主题";
+/* The banner description showing after the timeline event has been deleted */
+"timeline-client-event.appointment-deleted.description" = "时间线事件已删除";
+/* The title of the delete button in timeline client event */
+"timeline-client-event.delete-button.title" = "删除事件";
+/* The button title of the confirmation alert when taping to delete an event */
+"timeline-client-event.delete-confirmation-alert.button-title" = "删除";
+/* The message of the confirmation alert when taping to delete an event */
+"timeline-client-event.delete-confirmation-alert.message" = "您确定要删除该项目吗？";
+/* The title of the confirmation alert when taping to delete an event */
+"timeline-client-event.delete-confirmation-alert.title" = "删除事件";
+/* The title of the cancel button in timeline client event */
+"timeline-client-event.navigation-bar.leading.cancel" = "取消";
+/* The title of the edit button in timeline client event with read mode */
+"timeline-client-event.navigation-bar.trailing.edit" = "编辑";
+/* The title of the save button when creating/editing a timeline client event */
+"timeline-client-event.navigation-bar.trailing.save" = "保存";
+/* Default subtitle to show in an empty timeline */
+"timeline.default.empty.subtitle" = "没有时间线事件";
+/* Default title to show in an empty timeline */
+"timeline.default.empty.title" = "空的时间线";
+/* The label for SKU (Stock Keeping Unit) */
+"transaction-details.item.properties.sku.label" = "SKU";
+/* A range of two items. The first placeholder is the lower bound and the second is the upper bound. Usually used for time ranges and price ranges. */
+"utilities.range" = "%1$@ - %2$@";

@@ -1,0 +1,1052 @@
+/* The title of the outreach action that gives the option to contact with a client */
+"actions.client-outreach.title" = "Contact";
+/* The default 'cancel' button title */
+"alert.buttons.cancel.title" = "Cancel";
+/* The default 'OK' button title */
+"alert.buttons.ok.title" = "OK";
+/* The banner description showing after the appointment has been cancelled */
+"appointment-details.appointment-cancelled.description" = "Appointment has been cancelled";
+/* Title for the join virtual meeting button */
+"appointment-details.join-virtual-meeting.button.title" = "Join the virtual consultation";
+/* The description for how long before the meeting the virtual link is availiable */
+"appointment-details.join-virtual-meeting.description" = "The meeting room will be active %@ minutes before the consultation";
+/* Title for appointment details edit button in the navigation bar */
+"appointment-details.navigationBar.edit-button.title" = "Edit";
+/* Title for appointment details navigation bar */
+"appointment-details.navigationBar.title" = "Appointment Details";
+/* Placeholder for appointment form type field */
+"appointment-form.field.appointment-type.placeholder" = "-";
+/* Title for appointment form type field */
+"appointment-form.field.appointment-type.title" = "Appointment Type";
+/* Placeholder for appointment form client field */
+"appointment-form.field.client.placeholder" = "-";
+/* The navigation bar title for selecting a client in appointment form client field */
+"appointment-form.field.client.select-page-title" = "Select a client";
+/* Title for appointment form client field */
+"appointment-form.field.client.title" = "Client Name";
+/* Placeholder for appointment form date field */
+"appointment-form.field.date.placeholder" = "-";
+/* Title for appointment form date field */
+"appointment-form.field.date.title" = "Date & Time";
+/* Placeholder for appointment form notes field */
+"appointment-form.field.notes.placeholder" = "-";
+/* Title for appointment form notes field */
+"appointment-form.field.notes.title" = "Notes";
+/* Placeholder for appointment form store field */
+"appointment-form.field.store.placeholder" = "-";
+/* Title for appointment form store field */
+"appointment-form.field.store.title" = "Store";
+/* Placeholder for appointment form topic field */
+"appointment-form.field.topic.placeholder" = "-";
+/* Title for appointment form topic field */
+"appointment-form.field.topic.title" = "Topic";
+/* The text to show on a toast when an appointment has been successfully booked */
+"appointments.appointment-booked.toast.title" = "Appointment successfully booked";
+/* The title for the confirm appointment screen to be displayed in the navigation bar. */
+"appointments.confirm.navigation-bar.title" = "Book an appointment";
+/* The title for the done button in the navigation bar */
+"appointments.filters.navigation-bar.done.title" = "Done";
+/* The title for the navigation bar in the filters screen for appointments */
+"appointments.filters.navigation-bar.title" = "Filter appointments";
+/* The title to show in the navigation bar for the appointments scene */
+"appointments.navigationBar.title" = "Appointments";
+/* Title for the timeline entry detail for category */
+"appointments.timeline.appointments-entry.category.title" = "Category";
+/* Title for the timeline entry detail for client */
+"appointments.timeline.appointments-entry.client.title" = "Client";
+/* The subtitle for the empty state in the appointments view */
+"appointments.timeline.empty.subtitle" = "Looks like you have a lot of free time today";
+/* The title for the empty state in the appointments view */
+"appointments.timeline.empty.title" = "No upcoming appointments";
+/* Title for the timeline entry for in-store appointments */
+"appointments.timeline.in-store-appointments.title" = "In-Store";
+/* The location for a virtual appointment. This will usually be the string 'Online' */
+"appointments.timeline.virtual-appointments.location.title" = "Online";
+/* Title for the timeline entry for virtual appointments */
+"appointments.timeline.virtual-appointments.title" = "Virtual";
+/* The title for the filters button in appointments toolbar */
+"appointments.toolbar.filters.title" = "Filters";
+/* The title for the appointments toolbar. This value is shown in an appointments screen where the appointments for the whole store are shown. The user can filter by customer advisor and then this text would change to the advisor's name. So this value means we are searching the whole store. */
+"appointments.toolbar.title" = "All store";
+/* The title of extra assets amount in assets group block */
+"assets-group.extra-assets-amount.title" = "+%1$@";
+/* The text to show to the user while we are verifying they are logged in */
+"authentication.intermediary.title" = "Verifying login status...";
+/* Title for the button that tells users to enable camera use */
+"barcode-scanner.enable-camera.button.title" = "Tap to enable camera access";
+/* Title for the navigation bar button that cancels the barcode scanning */
+"barcode-scanner.navigationBar.leading.cancel" = "Cancel";
+/* Title for the button that tells users to open the settings app to enable camera use */
+"barcode-scanner.open-settings.button.title" = "Tap to open settings and enable camera access";
+/* Subtitle for the scan barcode screen which informs the user of what they need to do to open a product page */
+"barcode-scanner.scan-barcode.subtitle" = "Look for the barcode on the product and position it in the camera frame below";
+/* Title for the scan barcode screen */
+"barcode-scanner.scan-barcode.title" = "Scan Barcode";
+/* Title for the navigation bar button that cancel book an appointment form */
+"book-appointment.navigationBar.leading.cancel" = "Cancel";
+/* Title for book an appointment navigation bar */
+"book-appointment.navigationBar.title" = "Book an Appointment";
+/* Title for the next button in book an appointment navigation bar */
+"book-appointment.navigationBar.trailing.next" = "Next";
+/* Title for done state in the edit button */
+"button.edit.done.title" = "Done";
+/* Title for edit state in the edit button */
+"button.edit.edit.title" = "Edit";
+/* Title for the navigation bar button that cancel calendar and slots screen */
+"calendar-and-slots.navigationBar.leading.cancel" = "Cancel";
+/* Title for the done button in the calendar and slots screen navigation bar */
+"calendar-and-slots.navigationBar.trailing.done" = "Done";
+/* Empty view subtitle when there are no calendar slots available */
+"calendar.slots.empty.subtitle" = "Unfortunately there's no available time slot for this day. Try another day.";
+/* Empty view title when there are no calendar slots available */
+"calendar.slots.empty.title" = "No availability";
+/* Title for today button in calendar view */
+"calendar.todayButton.title" = "Today";
+/* An error to show when the device we are using does not have a camera but we are trying to show the camera feed */
+"camera.error.no-available-sources.title" = "There is no camera available on this device, tap anywhere to close this screen.";
+/* Title for the 'Filter all' button in the catalog view for showing the product list with the catalog products */
+"catalog.filter-all.button.title" = "Filter all";
+/* The title for the catalog heading */
+"catalog.heading.title" = "Products";
+/* The placeholder for the searchbar in product categoty search */
+"catalog.product-category.search.searchBar.placeholder" = "Search products";
+/* The screen title to show on product list screen while displaying all products */
+"catalog.product-list.all-products.title" = "All products";
+/* The subtitle to show when there are no results in a product list */
+"catalog.product-list.empty-list.subtitle" = "Unfortunately we could not find any products matching the criteria.";
+/* The title to show when there are no results in a product list */
+"catalog.product-list.empty-list.title" = "No matches found";
+/* The placeholder for searching lists in product catalog. The placeholder is the name of the category being searched. */
+"catalog.product-list.search.placeholder" = "Search %@";
+/* The placeholder for searching a similar products list */
+"catalog.product-list.search.similar-products.placeholder" = "Search similar products";
+/* The screen title to show on product list screen in case of similar products mode */
+"catalog.product-list.similar-products.title" = "Find Similar Products";
+/* The placeholder for global searching in product catalog. */
+"catalog.search.placeholder" = "Search products";
+/* Title for button when clearing recent products searches */
+"catalog.search.recently-searched.alert.clear-confirmation.button.title" = "Clear";
+/* Message for the alert when clearing recent products searches */
+"catalog.search.recently-searched.alert.clear-confirmation.message" = "Are you sure you want to clear your search history?";
+/* The title for the alert when clearing recent products searches */
+"catalog.search.recently-searched.alert.clear-confirmation.title" = "Clear search history?";
+/* The help text body in the recently searched products view */
+"catalog.search.recently-searched.help.body" = "You can search a product using its name or its SKU.";
+/* The navigation bar title on the global catalog search */
+"catalog.search.title" = "Products";
+/* Title for the 'View all' button in the catalog view for showing the product list based on the selected category */
+"catalog.view-all.button.title" = "View all";
+/* The action for the alert when a user has denied access to his photo but still want to save some in it */
+"choose-assets.alert.settings.action" = "Open Settings";
+/* The message for the alert when a user has denied access to his photo but still want to save some in it */
+"choose-assets.alert.settings.message" = "In order to read your photos, you must first allow access in the settings.";
+/* The title for the alert when a user has denied access to his photo but still want to save some in it */
+"choose-assets.alert.settings.title" = "Allow us to access your photos";
+/* Title of close button in choose assets screen */
+"choose-assets.navigation-bar.close.title" = "Cancel";
+/* Title of done button in choose assets screen */
+"choose-assets.navigation-bar.done.title" = "Done";
+/* Title of navigation bar in choose assets screen */
+"choose-assets.navigation-bar.title" = "Edit Photos";
+/* The title of the button that will allow access to the user's photo library and camera */
+"choose-assets.permissions.allow-access.button.title" = "Allow access";
+/* The explanation text above the button that will allow access to the user's photo library and camera */
+"choose-assets.permissions.explanation.title" = "Access to your photo library and camera is required to select or take new photos and videos";
+/* The title for the section where the user's library's photos appear */
+"choose-assets.personal-assets.section.title" = "Your Photos";
+/* Message for alert shown when saving the selected assets fails */
+"choose-assets.save.error.message" = "Saving assets failed. Please try again.";
+/* Title for alert shown when saving the selected assets fails */
+"choose-assets.save.error.title" = "Saving failed";
+/* Title of the create list button */
+"client-list.create-list.button.title" = "Create list";
+/* Title for alert button to show confirmation of removing a client from a list */
+"client-list.delete-confirmation.button.title" = "Remove client";
+/* Message for alert to show confirmation of removing a client from a list including the client name */
+"client-list.delete-confirmation.client-name.message" = "Are you sure you want to remove %1$@ from this list?";
+/* Message for alert to show confirmation of removing a client from a client list without the client name */
+"client-list.delete-confirmation.message" = "Are you sure you want to remove this client from this list?";
+/* Title for alert to show delete confirmation */
+"client-list.delete-confirmation.title" = "Remove client?";
+/* Title for confirmation alert button when deleting a client list */
+"client-list.delete-list.alert.button.confirm.title" = "Delete list";
+/* Message for confirmation alert for deleting a client list */
+"client-list.delete-list.alert.confirm.message" = "Are you sure you want to delete this list? The clients will not be deleted.";
+/* Title for confirmation alert for deleting a client list */
+"client-list.delete-list.alert.confirm.title" = "Delete this list?";
+/* Message to show on an alert when deleting a client list fails */
+"client-list.delete-list.error.alert.message" = "Deleting failed please try again";
+/* Message to show on the toast view when deleting a client from a list fails */
+"client-list.deletion.toast.error.title" = "Deleting client failed";
+/* The title of the button when the empty view is shown in a list that is editable */
+"client-list.empty.editable.button.title" = "Add clients";
+/* The subtitle of the empty view when the member's list is editable */
+"client-list.empty.editable.subtitle" = "There are no clients in this list. If you want, you may add some.";
+/* The title of the empty view when the member's list is editable */
+"client-list.empty.editable.title" = "No clients found";
+/* The title of the button when the empty view is shown in a list that is not editable */
+"client-list.empty.non-editable.button.title" = "Refresh";
+/* The subtitle of the empty view when the member's list is not editable */
+"client-list.empty.non-editable.subtitle" = "There are no clients in this list";
+/* The title of the empty view when the member's list is not editable */
+"client-list.empty.non-editable.title" = "No clients found";
+/* Title for button when deleting a client list */
+"client-list.form.alert.delete-confirmation.button.title" = "Delete list";
+/* Message for the alert when deleting a list */
+"client-list.form.alert.delete-confirmation.message" = "Are you sure you want to delete this list? The clients will not be deleted.";
+/* Title for the alert when deleting a list */
+"client-list.form.alert.delete-confirmation.title" = "Delete this list?";
+/* Title for the form when we are creating a list */
+"client-list.form.create-list.title" = "Create list";
+/* Title for the form when we are editing a list */
+"client-list.form.edit-list.title" = "Edit list";
+/* Message for alert shown when saving a list fails */
+"client-list.form.save-list.error.message" = "Saving list failed. Please try again.";
+/* Title for alert shown when saving a list fails */
+"client-list.form.save-list.error.title" = "Saving failed";
+/* Title for the toast shown when deleting a client list fails */
+"client-list.form.toast.error.title" = "Client list deletion failed";
+/* Title of the search bar placeholder in client lists when searching a specific member's list. */
+"client-list.members.search.placeholder" = "Search list";
+/* Title for the navigation bar button that cancel the client list creation/edition */
+"client-list.navigationBar.leading.cancel" = "Cancel";
+/* Title for the save button in the client list navigation bar */
+"client-list.navigationBar.trailing.save" = "Save";
+/* The text to show for the sort done button in client lists */
+"client-list.sort.done.title" = "Done";
+/* The text to show for the sort button in client lists */
+"client-list.toolbar.sort.title" = "Sort";
+/* Empty view button title when there are no lists */
+"client-lists.empty.button.title" = "Create a new list";
+/* Empty view subtitle when there are no lists */
+"client-lists.empty.subtitle" = "It seems you have not created any lists yet.";
+/* Empty view title when there are no lists */
+"client-lists.empty.title" = "No lists found";
+/* Title of the 'More' button in client list info section */
+"client-lists.info.more-button.title" = "more";
+/* The title of the placeholder for searching clients globally */
+"client-lists.navigation-bar.search.placeholder.title" = "Search clients";
+/* The title of the client lists screen */
+"client-lists.navigationBar.title" = "Client lists";
+/* Error message when text searched doesn't have required length */
+"client-search.required-query-length.error.title" = "You must type in at least %li characters to search";
+/* The title for the 'Add an event' action sheet */
+"client360.actions.add-an-event.title" = "Add an event";
+/* The title of the client 360 action for additional information */
+"client360.actions.additional-information.title" = "Additional information";
+/* The title of the client 360 action for booking an appointment */
+"client360.actions.book-appointment.title" = "Book an Appointment";
+/* The title of the notes and preferences button in the client 360 menu */
+"client360.actions.notes-and-preferences.title" = "Notes & Preferences";
+/* Title for the contact disabled button in Client 360 view */
+"client360.contact.button-disabled.title" = "No contact channels";
+/* Title for the contact button in Client 360 view */
+"client360.contact.button.title" = "Contact";
+/* The title of the button to start editing a client's profile */
+"client360.details.navigation-bar.trailing.edit" = "Edit";
+/* Title for the client 360 details subview navigation bar */
+"client360.details.navigationBar.title" = "Client details";
+/* The message to show when a user copies the client ID in client 360 */
+"client360.header.toast-message.client-id-copied.title" = "Client ID copied";
+/* The subtitle to show in a KPI to indicate it was an NPS score */
+"client360.kpis.nps.subtitle" = "Latest NPS";
+/* Title of close button in navigation bar */
+"client360.navigation-bar.close.title" = "Close";
+/* Title for the client 360 notes and preferences subview navigation bar */
+"client360.notes-and-preferences.navigationBar.title" = "Notes and preferences";
+/* The subtitle for the empty view in notes and preferences section 'Notes' */
+"client360.notesAndPreferences.notes.empty.subtitle" = "It seems there are no notes.";
+/* The title for the empty view in notes and preferences section 'Notes' */
+"client360.notesAndPreferences.notes.empty.title" = "No notes found";
+/* The title for the form section header for 'Notes' */
+"client360.notesAndPreferences.notes.title" = "Notes";
+/* The subtitle for the empty view in notes and preferences section 'Preferences' */
+"client360.notesAndPreferences.preferences.empty.subtitle" = "It seems there are no preferences.";
+/* The title for the empty view in notes and preferences section 'Preferences' */
+"client360.notesAndPreferences.preferences.empty.title" = "No preferences found";
+/* The title for the form section header for 'Preferences' */
+"client360.notesAndPreferences.preferences.title" = "Preferences";
+/* The button title to deny the timeline item */
+"client360.timeline-item.confirmation-buttons.no.title" = "No";
+/* The question if the timeline item has happened or not */
+"client360.timeline-item.confirmation-buttons.question.title" = "Did this event happen?";
+/* The button title to confirm the timeline item */
+"client360.timeline-item.confirmation-buttons.yes.title" = "Yes";
+/* The message to show when confirm timeline item has failed */
+"client360.timeline-item.confirmation.confirm-failed.title" = "Confirming this event failed. Please try again.";
+/* The message to show when deny timeline item has failed */
+"client360.timeline-item.confirmation.deny-failed.title" = "Removing this event failed. Please try again.";
+/* Title for the 'ADD' button to create a new timeline event */
+"client360.timeline.button.add.title" = "Add";
+/* The default title to show on the timeline item for a consultation */
+"client360.timeline.consultation.title" = "Consultation";
+/* The type of a consultation that is in-store */
+"client360.timeline.consultation.type.instore.title" = "In-store";
+/* The type of a consultation that is virtual */
+"client360.timeline.consultation.type.virtual.title" = "Virtual";
+/* The default title to show on the timeline item for a curator entry */
+"client360.timeline.curator.title" = "Curation";
+/* Title for the view shown on the screen when there are no timeline items */
+"client360.timeline.empty.subtitle" = "There are no timeline events";
+/* Title for the view shown on the screen when there are no timeline items */
+"client360.timeline.empty.title" = "Empty timeline";
+/* Title for the consultation filter type */
+"client360.timeline.filters.consultation.title" = "Consultation";
+/* Title for the important date filter type */
+"client360.timeline.filters.important-date.title" = "Important Date";
+/* Title for the newsletter filter type */
+"client360.timeline.filters.newsletter.title" = "Newsletter";
+/* Title for the nps filter type */
+"client360.timeline.filters.nps.title" = "NPS";
+/* Title for the outreach filter type */
+"client360.timeline.filters.outreach.title" = "Outreach";
+/* Title for the transaction filter type */
+"client360.timeline.filters.transaction.title" = "Transaction";
+/* Title for the headline in the timeline section */
+"client360.timeline.heading.title" = "Timeline";
+/* The default title to show on the timeline item for an important date */
+"client360.timeline.important-date.title" = "Important Date";
+/* The default 'sent by' entity to show on the timeline item for a newsletter */
+"client360.timeline.newsletter.sentBy" = "Head office";
+/* The default title to show on the timeline item for a given newsletter */
+"client360.timeline.newsletter.title" = "Newsletter";
+/* The title to show on the timeline nps item */
+"client360.timeline.nps.title" = "NPS survey";
+/* The default title to show on the timeline item for a postal outreach */
+"client360.timeline.outreach.postal.title" = "Contacted by post";
+/* The default title to show on the timeline item for an outreach */
+"client360.timeline.outreach.title" = "Outreach";
+/* The default title to show on the timeline item for an pay by link outreach */
+"client360.timeline.pay-by-link.title" = "Pay by link";
+/* The default title to show on the timeline item for a given product share */
+"client360.timeline.product-share.title" = "Product Share";
+/* The format to use for the footer in an a timeline item. The first placeholder is the client advisor's name and the second is the store name. */
+"client360.timeline.timeline-item.footer.advisor-and-store.format" = "%1$@, %2$@";
+/* The label to show when the user taps the copy button */
+"client360.timeline.transaction.id-copied.title" = "Transaction ID has been copied";
+/* The subtitle for the transaction event type that is in store */
+"client360.timeline.transaction.in-store.title" = "In store";
+/* The subtitle for the transaction event type that is a pay by link */
+"client360.timeline.transaction.payByLink.title" = "Pay by Link";
+/* The title of the expired status in pay by link timeline item */
+"client360.timeline.transaction.status.expired.title" = "Expired";
+/* The title of the paid status in pay by link timeline item */
+"client360.timeline.transaction.status.paid.title" = "Paid";
+/* The title of the pending status in pay by link timeline item */
+"client360.timeline.transaction.status.pending.title" = "Pending";
+/* The title of the unknown status in pay by link timeline item */
+"client360.timeline.transaction.status.unknown.title" = "Unknown";
+/* The default title to show on the timeline item for a transaction */
+"client360.timeline.transaction.title" = "Transaction";
+/* The text to show when a transaction was made online */
+"client360.timeline.transaction.virtual.footer.title" = "Online";
+/* The title for the client information section in a transaction details screen */
+"client360.transactions.additional-details.client-information.title" = "Client Information";
+/* The title for the payment information section in a transaction details screen */
+"client360.transactions.additional-details.payment-information.title" = "Payment Information";
+/* The title for the line item for billing address */
+"client360.transactions.address-section.billing.title" = "Billing address";
+/* The title for the line item for shipping address */
+"client360.transactions.address-section.shipping.title" = "Shipping address";
+/* The title of the close button in the navigation bar */
+"client360.transactions.navigation-bar.leading.close" = "Close";
+/* The title of the subtotal line item in the transaction details pricing section */
+"client360.transactions.pricing.subtotal.title" = "Subtotal";
+/* The title of the taxes line item in the transaction details pricing section */
+"client360.transactions.pricing.taxes.title" = "Taxes";
+/* The title of the total line item in the transaction details pricing section */
+"client360.transactions.pricing.total.title" = "Total";
+/* The title of the line item that displays the payment ID */
+"client360.transactions.sections.pay-by-link.paymentId.title" = "Payment ID";
+/* The title of the line item that displays the payment status */
+"client360.transactions.sections.pay-by-link.status.title" = "Status";
+/* Title for the transactions screen */
+"client360.transactions.title" = "Transaction";
+/* The subtitle of the button to confirm changes to a client's record. This explains the action tapping on the button will have. */
+"clients.edit-client.confirmation.confirm-button.subtitle" = "A notification will be sent to the client";
+/* The title of the button to confirm changes to a client's record */
+"clients.edit-client.confirmation.confirm-button.title" = "Apply and notify client";
+/* The title for the screen that shows a summary of changes to a client's record before confirming them and saving them */
+"clients.edit-client.confirmation.navigation-bar.title" = "Confirm Changes";
+/* The title for the section that shows the updates that will be applied to the client's profile */
+"clients.edit-client.confirmation.section.title" = "Updates";
+/* The title of the cancel editing a client's profile */
+"clients.edit-client.navigation-bar.leading.cancel" = "Cancel";
+/* The title of the screen to edit a client */
+"clients.edit-client.navigation-bar.title" = "Edit Client";
+/* The title of the save button when editing a client's profile */
+"clients.edit-client.navigation-bar.trailing.next" = "Next";
+/* The create client button title for in client search */
+"clients.search.create-client-button.title" = "Create new client";
+/* Empty view subtitle when there are no clients */
+"clients.search.empty.subtitle" = "Unfortunately we could not find any clients matching the criteria.";
+/* Empty view title when there are no clients */
+"clients.search.empty.title" = "No matches found";
+/* Title for the client search navigation bar when accessed from the client list form */
+"clients.search.form.navigationBar.title" = "Select Clients";
+/* Title for the navigation bar button that cancel the client search */
+"clients.search.navigationBar.leading.cancel" = "Cancel";
+/* Placeholder for the search bar while searching for clients */
+"clients.search.navigationBar.search.placeholder" = "Search clients";
+/* Default client search view title */
+"clients.search.navigationBar.title" = "Client Search";
+/* Title for the done button in the client search navigation bar */
+"clients.search.navigationBar.trailing.done" = "Done";
+/* Title for button when clearing recent clients searches */
+"clients.search.recently-searched.alert.clear-confirmation.button.title" = "Clear";
+/* Message for the alert when clearing recent clients searches */
+"clients.search.recently-searched.alert.clear-confirmation.message" = "Are you sure you want to clear your search history?";
+/* The title for the alert when clearing recent clients searches */
+"clients.search.recently-searched.alert.clear-confirmation.title" = "Clear search history?";
+/* The help text body in the recently searched clients view */
+"clients.search.recently-searched.help.body" = "You can search for clients using their first or last name, email, phone number or client ID.";
+/* The placeholder for the searchbar in client search */
+"clients.search.searchBar.placeholder" = "Search clients";
+/* The title for the button in the instructions to confirm an appointment */
+"confirm-appointment.button.title" = "Confirm and send appointment";
+/* The format for the instructions in the appointment. The first placeholder is the date of an appointment, the second placeholder is the time of the appointment and the third placeholder is a theme for the appointment. For example, in English: '12th June at 13:00\nCustomer Care'. */
+"confirm-appointment.instructions.format" = "%1$@ at %2$@\n%3$@";
+/* The title for the instructions to confirm an appointment */
+"confirm-appointment.instructions.title" = "Appointment Review";
+/* The subtitle for the confirm appointment view */
+"confirm-appointment.subtitle" = "Confirming your appointment will send a notification to your guest with details of the event. Automatic reminders will also be sent at timely intervals, including instructions.";
+/* The title for the confirm appointment view */
+"confirm-appointment.title" = "Confirm & Send!";
+/* The title for the button in the instructions to confirm delete an appointment */
+"confirm-delete-appointment.button.title" = "Cancel appointment & notify guest";
+/* The title for the confirm delete appointment screen to be displayed in the navigation bar. */
+"confirm-delete-appointment.navigation-bar.title" = "Edit Appointment";
+/* The subtitle for the confirm delete appointment view */
+"confirm-delete-appointment.subtitle" = "Cancelling your appointment will also send a notification to your guest.";
+/* The title for the confirm delete appointment view */
+"confirm-delete-appointment.title" = "Cancel Appointment?";
+/* The title of the curator share search client navigation bar */
+"curator-share.navigationBar.title" = "Share Curation";
+/* The title for the dashboard filters done button */
+"dashboard.filters.done" = "Done";
+/* The title for the dashboard filters */
+"dashboard.filters.title" = "Filters";
+/* The title for default filter button on the dashboard heading */
+"dashboard.heading.button.title" = "Filter";
+/* The title for the dashboard heading */
+"dashboard.heading.title" = "Dashboard";
+/* The error description to present when the device authentication has failed */
+"device-authentication.error.description" = "We need to use the device authentication for performing this action.";
+/* The error title to present when the device authentication has failed */
+"device-authentication.error.title" = "Device authentication failed";
+/* The reason to show on the passcode authentication before creating a client */
+"device-authentication.reason.create-client" = "Create a new client";
+/* Title for delete appointment button in edit appointment screen */
+"edit-appointment.delete-button.title" = "Delete Appointment";
+/* Title for edit appointment navigation bar */
+"edit-appointment.navigationBar.title" = "Edit Appointment";
+/* Title for a general error view */
+"error-view.title" = "Could not retrieve data";
+/* Description of an error due to connection fail */
+"errors.connection.description" = "Sorry, but we could not retrieve your data. Make sure you're connected to Wifi or any other data provider.";
+/* Title of an error due to connection fail */
+"errors.connection.title" = "Connection fail";
+/* Description of an unspecified error from the server. */
+"errors.data.description" = "Sorry, but we could not retrieve your data. Something went wrong during the process.";
+/* Title of an unspecified error from the server. */
+"errors.data.title" = "Whoops!";
+/* Description of an error when results are empty */
+"errors.empty-results.description" = "Sorry, it seems no data has been found.";
+/* Title of an error when results are empty */
+"errors.empty-results.title" = "No results";
+/* The title for clear filters button */
+"filters.clear.button.title" = "Clear filters";
+/* The total matched items title in filter item. The placeholder is the total items intager. */
+"filters.item.total-items.title" = "(%1$li)";
+/* Title for the navigation bar button that cancel the filters selection */
+"filters.navigationBar.leading.cancel" = "Cancel";
+/* Title of the button to clear the signature */
+"form.signature.clear.button.title" = "CLEAR SIGNATURE";
+/* The subtitle clearing out the aim of the signature */
+"form.signature.subtitle" = "Sign here if you agree and consent to the above";
+/* The title of the signature form */
+"form.signature.title" = "Signature";
+/* The format to use when creating a date and slot string. The first placeholder is the date and the second placeholder is the time interval. */
+"formatters.date-and-slot.format" = "%1$@ at %2$@";
+/* The full date format to use for past date format. The first placeholder is the date and the second placeholder is the time. */
+"formatters.past-date.full-date-time.format" = "%1$@, %2$@";
+/* The format to use for past date format when the date is in the past 59 seconds */
+"formatters.past-date.now.format" = "Now";
+/* The format to use for past date format when the date is in the past 59 minutes. The placeholder is the minutes count. */
+"formatters.past-date.past-minutes.format" = "%lim ago";
+/* The title of the badge for an edited field where a value was added */
+"forms.edited-field.added-badge.title" = "Added";
+/* The title of the badge for an edited field where a value was removed */
+"forms.edited-field.removed-badge.title" = "Removed";
+/* The title of the badge for an edited field where a value was updated */
+"forms.edited-field.updated-badge.title" = "Updated";
+/* The default retry button title */
+"general.error.button.retry.title" = "Retry";
+/* Generic text to show when information is not available */
+"general.not-available" = "N/A";
+/* A default message to show in a toast view when a value is copied to the pasteboard */
+"general.value-copied.success.title" = "Value copied";
+/* The title to show instead of the value when the selected value is invalid for birthday field in generic form */
+"generic-form.field.birthday.invalid-selection.title" = "Invalid date";
+/* The default placeholder for birthday field in generic form */
+"generic-form.field.birthday.placeholder" = "Select a date";
+/* Title error title for date and slots field options */
+"generic-form.field.date-and-slots.options.error.title" = "Error loading data, tap to try again";
+/* The default placeholder for date field in generic form */
+"generic-form.field.date.placeholder" = "Select a date";
+/* The title for clear button in inline picklist generic form field */
+"generic-form.field.inline-picklist.clear-button.title" = "Clear";
+/* The title for done button in inline picklist generic form field */
+"generic-form.field.inline-picklist.done-button.title" = "Done";
+/* The title for edit button in inline picklist generic form field */
+"generic-form.field.inline-picklist.edit-button.title" = "Edit";
+/* Done button title in the nested picklist field page */
+"generic-form.field.picklist.done-button" = "Done";
+/* Title error title for picklist options */
+"generic-form.field.picklist.options.error.title" = "Error loading data, tap to try again";
+/* The placeholder for a field in generic form with readonly status */
+"generic-form.field.readonly.placeholder" = "N/A";
+/* The title for count of characters in textarea generic form field. First placeholder is the current characters count and second is the maximum allowed characters. */
+"generic-form.field.textarea.characters-count.title" = "%1$li/%2$li";
+/* The default placeholder for time field in generic form */
+"generic-form.field.time.placeholder" = "Select time";
+/* Message for alert shown when saving a generic form */
+"generic-form.save.error.message" = "Saving form failed. Please try again.";
+/* Title for alert shown when saving a generic form */
+"generic-form.save.error.title" = "Saving failed";
+/* The format of a labeled value. In English, this will simply be the value passed in with a colon at the end. */
+"labeled-value.label.format" = "%1$@:";
+/* Title of the delete list button */
+"list.edit.button.delete" = "Delete list";
+/* Placeholder for title for creating a new list */
+"list.form-field.list-name.placeholder" = "Name your new list";
+/* Title for the name field in the form */
+"list.form-field.list-name.title" = "List name";
+/* Text to show when there are no clients selected */
+"list.form-field.selected-clients.no-clients-selected" = "No clients selected";
+/* Title for the selected clients field in the form */
+"list.form-field.selected-clients.title" = "Select clients";
+/* The title of the login button in the login screen */
+"login.button.title" = "Login";
+/* The text to show when an error occures when logging in */
+"login.error.title" = "An error occurred. Please try again.";
+/* The text to show while we are getting the user's data after logging in */
+"login.processing.title" = "Retrieving your data. Please hold...";
+/* The title for done button on the nested list */
+"nested-filter.navigationBar.trailing.done" = "Done";
+/* The empty title of the selected items on nested filter */
+"nested-filter.selectedItems.empty" = "Select something";
+/* Subtitle for notification center empty unread data subtitle */
+"notification-center.empty-unread.subtitle" = "Looks like you read all of your notifications.";
+/* Title for notification center empty unread data title */
+"notification-center.empty-unread.title" = "No Unread Notifications";
+/* Subtitle for notification center empty data subtitle */
+"notification-center.empty.subtitle" = "Looks like you do not have any notifications yet.";
+/* Title for notification center empty data title */
+"notification-center.empty.title" = "No Notifications";
+/* The title for the notification that tells the user an appointment was created by another user */
+"notification-center.items.appointment-created-other-user.title" = "A new appointment has been assigned to you.";
+/* The title for the notification that tells the user an appointment IN THE FUTURE was cancelled by another user. The first placeholder is the week day and the second is time of the appointment. */
+"notification-center.items.appointment-future-cancelled-other-user.title" = "Your appointment on %1$@ at %2$@ has been cancelled";
+/* The title for the notification that tells the user an appointment THIS WEEK was cancelled by another user. The first placeholder is the week day and the second is time of the appointment. */
+"notification-center.items.appointment-this-week-cancelled-other-user.title" = "Your appointment on %1$@ at %2$@ has been cancelled";
+/* The title for the notification that tells the user an appointment TODAY was cancelled by another user. The first placeholder is the time of the appointment. */
+"notification-center.items.appointment-today-cancelled-other-user.title" = "Your appointment at %1$@ has been cancelled";
+/* The title for the notification that tells the user an appointment TOMORROW was cancelled by another user. The first placeholder is the time of the appointment. */
+"notification-center.items.appointment-tomorrow-cancelled-other-user.title" = "Your appointment tomorrow at %1$@ has been cancelled";
+/* The title for the notification that tells the user they have met their performance goal */
+"notification-center.items.dashboard-performance-achieved.title" = "Your performance goal has been achieved.";
+/* The title for the notification that tells the user that there is new activity in a very important client */
+"notification-center.items.new-activity-vic.title" = "New activity in your VIC profile.";
+/* The title for the notification that tells the user a new client was assigned to them */
+"notification-center.items.new-client-assigned.title" = "New client assigned to you";
+/* The title for the notification that tells the user a new featured list is available */
+"notification-center.items.new-featured-list.title" = "A new featured list has been released";
+/* The title for the notification that tells the user a new NPS feedback is available */
+"notification-center.items.new-nps.title" = "New NPS received";
+/* The title for the notification that tells the user that their appointment is starting soon. The first placeholder is the time of the appointment and the second one is the number of minutes left until the appointment starts. */
+"notification-center.items.o2m-appointment-starting.title" = "Your 1:1 appointment at %1$@ starts in %2$@m!";
+/* The title for the notification that tells the user that their appointment is starting soon. The first placeholder is the time of the appointment and the second one is the number of minutes left until the appointment starts. */
+"notification-center.items.o2o-appointment-starting.title" = "Your 1:many appointment at %1$@ starts in %2$@m!";
+/* The title for the notification that tells the user a payment has been made */
+"notification-center.items.pbl-payment-made.title" = "Client has made a payment using Pay-by-Link";
+/* The title for the notification that tells the user a link has expired */
+"notification-center.items.pbl-url-expired.title" = "Pay-by-Link URL expired";
+/* Label for 'Client' */
+"notification-center.items.subtitles.label.client" = "Client";
+/* The title for the notification that tells the user that a client has completed a transaction */
+"notification-center.items.transaction-complete.title" = "Client completed a transaction";
+/* Title for notification center screen */
+"notification-center.navigationBar.title" = "Notification Center";
+/* Title for recent notification center section */
+"notification-center.recent-section.title" = "Recent";
+/* Title for today notification center section */
+"notification-center.today-section.title" = "Today";
+/* Title for seeing all notification center items */
+"notification-center.toolbar.filter-all.title" = "All";
+/* Title for seeing unread notification center items */
+"notification-center.toolbar.filter-unread.title" = "Unread";
+/* The title of the button to continue without notifications */
+"notifications.permission-modal.continue-button.title" = "Continue without notifications";
+/* The title of the button to enable notifications */
+"notifications.permission-modal.enable-button.title" = "Enable notifications";
+/* The title for the permissions modal's navigation bar cancel button */
+"notifications.permission-modal.navigation-bar.cancel.title" = "Cancel";
+/* The title for the permissions modal's navigation bar */
+"notifications.permission-modal.navigation-bar.title" = "Notifications";
+/* The body for the permissions modal view when we don't know if permissions have been granted. */
+"notifications.permission-modal.not-determined.body" = "Enabling push notificatiosn will allow you to stay updated";
+/* The title for the permissions modal view when we don't know if permissions have been granted. */
+"notifications.permission-modal.not-determined.title" = "Get notified!";
+/* The body for the permissions modal view when the user has previously declined permissions for notifications */
+"notifications.permission-modal.not-permitted.body" = "To receive push notifications you will need to enable them in your device settings.";
+/* The title for the permissions modal view when the user has previously declined permissions for notifications. */
+"notifications.permission-modal.not-permitted.title" = "Enable notifications";
+/* The title of the button to open the settings app */
+"notifications.permission-modal.settings-button.title" = "Open Settings";
+/* The format for the payment made notification. This is displayed when a notification is received. The parameter is the amount of the transaction, in the currency given in the notification payload and formatted according to the information on the user's device. */
+"notifications.push-notification.payment-made.subtitle" = "%1$@! Your client checked out using Pay-by-Link 🎉";
+/* The title for the payment made notification. */
+"notifications.push-notification.payment-made.title" = "Pay-by-link";
+/* The title of the close button in views that are presented after a navigation view */
+"notifications.window.close-button.title" = "Close";
+/* The title for the NPS details screen */
+"nps.details.navigation-bar.title" = "Client Feedback";
+/* The title for an NPS that originated after an in-store payment */
+"nps.event-source.in-store-payment.title" = "Payment in store";
+/* The title for an NPS that originated after an e-commerce delivery. This is, in a screen that shows NPS (Net-Promoter-Score) this label indicates that the survey was answered 'after (post) the delivery of the e-commerce order'. This is *not* an action to 'publish' a web delivery. */
+"nps.event-source.post-web-delivery.title" = "Post web payment";
+/* The title for an NPS that originated after an e-commerce payment. This is, in a screen that shows NPS (Net-Promoter-Score) this label indicates that the survey was answered 'after (post) the payment of the e-commerce order'. This is *not* an action to 'publish' a web delivery. */
+"nps.event-source.post-web-payment.title" = "Post web delivery";
+/* The title of the button that will take the user to the client profile */
+"nps.rating-details.client-profile.button.title" = "View client profile";
+/* The title of the button that will take the user to the full client survey details */
+"nps.summary.full-survey.button.title" = "View the full survey";
+/* The format for the subtitle in the survey details that shows when a survey was answered. The first placeholder is the date in medium format (MMM DD, YYYY) and the second one is the time in short format HH:MM */
+"nps.survey-details.answered-on.format" = "Answered on %1$@ - %2$@";
+/* The title for the survey answer details screen */
+"nps.survey-details.title" = "Survey Details";
+/* Title for the transaction details section */
+"nps.survey-details.transaction.section.title" = "Feedback received for:";
+/* The title of the summary section in the NPS details screen */
+"nps.survey.summary-section.title" = "Summary";
+/* The description text to display when there are no outreach channels to display to the customer advisor */
+"outreach-selection.empty.description" = "This client has no outreach channels available.";
+/* The title text to display when there are no outreach channels to display to the customer advisor */
+"outreach-selection.empty.title" = "No outreach channels";
+/* The name of the app email */
+"outreach-selection.item.email" = "Email";
+/* The name of the app FaceTime */
+"outreach-selection.item.facetime" = "FaceTime";
+/* The title for the label to show to send the user to the app store */
+"outreach-selection.item.install-app.label.title" = "Install app";
+/* The title for the label to show if an outreach type is preferred */
+"outreach-selection.item.is-preferred.label.title" = "Preferred";
+/* The name of the app Kakao */
+"outreach-selection.item.kakao" = "Kakao";
+/* The name of the app Line */
+"outreach-selection.item.line" = "Line";
+/* The name of the app LineWorks */
+"outreach-selection.item.lineworks" = "LineWorks";
+/* The title for the label to show to allow the user to call a client */
+"outreach-selection.item.phone.label.title" = "Phone";
+/* The name of the app SMS */
+"outreach-selection.item.sms" = "SMS";
+/* The name of the app WeChat */
+"outreach-selection.item.wechat" = "WeChat";
+/* The name of the app WhatsApp */
+"outreach-selection.item.whatsapp" = "WhatsApp";
+/* Cancel button shown in the navigation bar of the outreach selection screen */
+"outreach-selection.navigation-bar.cancel.title" = "Cancel";
+/* Title shown in the navigation bar of the outreach selection screen */
+"outreach-selection.navigation-bar.title" = "Select a channel";
+/* Error to show to a user when we can't open the phone number URL */
+"outreach.call.error.cannotOpenURL" = "Could not call client (Could not open URL)";
+/* Error to show to a user when we can't build a phone number URL */
+"outreach.call.error.phoneNumberURL" = "Could not call client (Could not build URL)";
+/* The action for the alert when a user has denied access to his photo but still want to save some in it */
+"outreach.instructions.alert.settings.action" = "Settings";
+/* The message for the alert when a user has denied access to his photo but still want to save some in it */
+"outreach.instructions.alert.settings.message" = "In order to save photos, you must first allow access in the settings.";
+/* The title for the alert when a user has denied access to his photo but still want to save some in it */
+"outreach.instructions.alert.settings.title" = "Allow us to access your photos";
+/* The title for the button that sends the user to the third party app for email */
+"outreach.instructions.continue-button.title.email" = "CONTINUE TO EMAIL APP";
+/* The title for the button that sends the user to Kakao */
+"outreach.instructions.continue-button.title.kakao" = "CONTINUE TO KAKAO";
+/* The title for the button that sends the user to line */
+"outreach.instructions.continue-button.title.line" = "CONTINUE TO LINE";
+/* The title for the button that sends the user to lineworks */
+"outreach.instructions.continue-button.title.lineworks" = "CONTINUE TO LINE WORKS APP";
+/* The title for the button that sends the user to the third party app for sms */
+"outreach.instructions.continue-button.title.sms" = "CONTINUE TO MESSAGES APP";
+/* The title for the button that sends the user to wechat */
+"outreach.instructions.continue-button.title.wechat" = "CONTINUE TO WECHAT";
+/* The title for the button that sends the user to whatsapp */
+"outreach.instructions.continue-button.title.whatsapp" = "CONTINUE TO WHATSAPP";
+/* The message for the don't forget part of the instructions for email */
+"outreach.instructions.dont-forget.message.email" = "You will now be redirected to the Email app where you can proceed and send your message.";
+/* The message for the don't forget part of the instructions for line */
+"outreach.instructions.dont-forget.message.kakao" = "You will now be redirected to the Kakao app where you can proceed and send your message.";
+/* The message for the don't forget part of the instructions for line */
+"outreach.instructions.dont-forget.message.line" = "You will now be redirected to the Line app where you can proceed and send your message.";
+/* The message for the don't forget part of the instructions for lineworks */
+"outreach.instructions.dont-forget.message.lineworks" = "You will now be redirected to the Line Works app where you can proceed and send your message.";
+/* The message for the don't forget part of the instructions for sms */
+"outreach.instructions.dont-forget.message.sms" = "You will now be redirected to the SMS app where you can proceed and send your message.";
+/* The message for the don't forget part of the instructions for wechat */
+"outreach.instructions.dont-forget.message.wechat" = "You will now be redirected to the WeChat app where you can proceed and send your message.";
+/* The message for the don't forget part of the instructions for whatsapp */
+"outreach.instructions.dont-forget.message.whatsapp" = "You will now be redirected to the Whatsapp app where you can proceed and send your message.";
+/* The title for the don't forget part of the instructions */
+"outreach.instructions.dont-forget.title" = "Don't forget!";
+/* The label to show in the outreach instructions screen for the action Insert photos */
+"outreach.instructions.insert-photos.title" = "Insert assets";
+/* The navigation bar title of the outreach instructions scene */
+"outreach.instructions.navigation-bar.title" = "Next steps";
+/* The label to show in the outreach instructions screen for the action Paste message */
+"outreach.instructions.paste-message.title" = "Paste message";
+/* The title for the bottom button when download and saving product pictures */
+"outreach.instructions.saving-pictures.title" = "Saving assets...";
+/* The label to show in the outreach instructions screen for the action Select client */
+"outreach.instructions.select-client.title" = "Select client";
+/* The outreach instructions title for email */
+"outreach.instructions.title.email" = "Email instructions";
+/* The outreach instructions title for Kakao */
+"outreach.instructions.title.kakao" = "Kakao instructions";
+/* The outreach instructions title for line */
+"outreach.instructions.title.line" = "Line instructions";
+/* The outreach instructions title for lineworks */
+"outreach.instructions.title.lineworks" = "Line Works instructions";
+/* The outreach instructions title for sms */
+"outreach.instructions.title.sms" = "Messages instructions";
+/* The outreach instructions title for wechat */
+"outreach.instructions.title.wechat" = "Wechat instructions";
+/* The outreach instructions title for whatsapp */
+"outreach.instructions.title.whatsapp" = "Whatsapp instructions";
+/* The title for the toggle button in the instructions view */
+"outreach.instructions.toggle.title" = "Save the product assets to your album";
+/* Title for the 'Select language' screen in outreach */
+"outreach.languages.navigationBar.title" = "Select language";
+/* Title for the outreach message form scene */
+"outreach.message.form.navigationBar.title" = "New Message";
+/* Placeholder for message line when editing a message in outreach */
+"outreach.message.input.message.placeholder" = "Enter your message here";
+/* Title for message input field in outreach */
+"outreach.message.input.message.title" = "Message";
+/* Placeholder for subject line when editing a message in outreach */
+"outreach.message.input.subject.placeholder" = "Enter your subject here";
+/* Title for subject input field in outreach */
+"outreach.message.input.subject.title" = "Subject";
+/* Button for navigation bar in outreach 'Next' */
+"outreach.navigationBar.trailing.title" = "Next";
+/* A title to show above the email to tell the user they can edit it on the next step */
+"outreach.template-preview.email-notice.title" = "You can edit the email on the next step";
+/* The title for the form field in language selection */
+"outreach.template-selection.languages.form.title" = "Languages";
+/* Title for the navigation bar button that cancel the template selection */
+"outreach.template-selection.navigationBar.leading.title" = "Cancel";
+/* Title for the screen where the user selects templates */
+"outreach.template-selection.navigationBar.title" = "Templates";
+/* Title for the navigation bar button that moves from template selection to template editing */
+"outreach.template-selection.navigationBar.trailing.title" = "Next";
+/* Title for the 'No template' default template */
+"outreach.templates.blank-template.name" = "No template";
+/* Preview for the 'No template' default template */
+"outreach.templates.blank-template.preview" = "Send a message without using a predefined template";
+/* Title for the 'All languages' language to be displayed in the template selection */
+"outreach.templates.languages.all-languages.title" = "All languages";
+/* Toast message to show when an outreach failed with an error. The error's description is passed in as a parameter. */
+"outreach.toast.error" = "Outreach failed";
+/* Message to show on a toast view when a user cannot use calling */
+"outreach.toast.error.no-call-available.title" = "Phone calls are not available on this device";
+/* Message to show on a toast view when a user cannot use emailing */
+"outreach.toast.error.no-email-available.title" = "Email not available on this device";
+/* Message to show on a toast view when a user cannot use FaceTime */
+"outreach.toast.error.no-facetime-available.title" = "FaceTime is not available on this device";
+/* Message to show on a toast view when a user cannot use text messaging */
+"outreach.toast.error.no-sms-available.title" = "SMS not available on this device";
+/* Message to show on a toast view when a the pictures download has failed */
+"outreach.toast.error.pictures-download.title" = "Saving images failed, please retry!";
+/* Toast message to show when an outreach failed with an unknown error */
+"outreach.toast.error.unknown.title" = "Outreach failed: error unknown.";
+/* Toast message to show when outreach was successful */
+"outreach.toast.success.title" = "Message sent";
+/* Title for the navigation bar button that cancel the attribute selection in pay-by-link */
+"pay-by-link.attribute-selection.navigation-bar.leading.cancel" = "Cancel";
+/* Title for the navigation bar in attribute selection for pay-by-link */
+"pay-by-link.attribute-selection.navigation-bar.title" = "Select Criteria";
+/* Title for the navigation bar button 'Done' in attribute selection in pay-by-link */
+"pay-by-link.attribute-selection.navigation-bar.trailing.done" = "Done";
+/* The title for the client search navigation bar when accessed from the pay by link form */
+"pay-by-link.clients.search.form.navigationBar.title" = "Client";
+/* The title for the pay by link confirmation screen */
+"pay-by-link.confirm-order.action-sheet.copy-button.title" = "Copy Pay by Link";
+/* Title for button when canceling closing form */
+"pay-by-link.confirm-order.alert.close-confirmation.cancel-button.title" = "Return";
+/* Title for button when closing form */
+"pay-by-link.confirm-order.alert.close-confirmation.done-button.title" = "Leave";
+/* Message for the alert when closing the form */
+"pay-by-link.confirm-order.alert.close-confirmation.message" = "Are you sure you want to leave this page without sending the pay by link?";
+/* Title for the alert when closing form */
+"pay-by-link.confirm-order.alert.close-confirmation.title" = "Leave page?";
+/* Title for the navigation bar button that cancel the pay-by-link */
+"pay-by-link.confirm-order.navigation-bar.leading.cancel" = "Cancel";
+/* The title for the pay by link confirmation screen */
+"pay-by-link.confirm-order.navigation-bar.title" = "Share Pay by Link";
+/* Title of the share button */
+"pay-by-link.confirm-order.order-options.title" = "Order options";
+/* Title of the products section */
+"pay-by-link.confirm-order.product-section.title" = "Product";
+/* The label for the quantity in each of the items in the curator */
+"pay-by-link.confirm-order.product.quantity.title" = "Quantity:";
+/* Title of the send payment link button */
+"pay-by-link.confirm-order.send-payment-button.title" = "Send Payment Link";
+/* The text to show in the toast message when a user copies the payment URL */
+"pay-by-link.copy.copy-success-toast.title" = "Pay by Link has been copied";
+/* The title in the navigation bar for done button in pay by link */
+"pay-by-link.copy.navigation-bar.done-button.title" = "Done";
+/* The title in the navigation bar for the copy view in pay by link */
+"pay-by-link.copy.navigation-bar.title" = "Copy Pay by Link";
+/* The placeholder for choosing a client field on pay by link create order screen */
+"pay-by-link.create-order.client-field.placeholder" = "Select a client";
+/* The title for choosing a client field on pay by link create order screen */
+"pay-by-link.create-order.client-field.title" = "Client";
+/* The placeholder for choosing delivery method field on pay by link create order screen */
+"pay-by-link.create-order.delivery-field.placeholder" = "Select delivery";
+/* The title for choosing delivery method field on pay by link create order screen */
+"pay-by-link.create-order.delivery-field.title" = "Delivery";
+/* The done button title for creating an order (while loading) on pay by link create order screen */
+"pay-by-link.create-order.doneButton.loading.title" = "Creating order";
+/* The done button title for creating an order on pay by link create order screen */
+"pay-by-link.create-order.doneButton.title" = "Create order";
+/* An error to show when in pay by link, the user hasn't selected all required attributes */
+"pay-by-link.create-order.error.missing-attributes.title" = "All product criteria must be selected";
+/* An error to show when in pay by link, the user hasn't selected a client */
+"pay-by-link.create-order.error.selected-client.title" = "A client must be selected";
+/* An error to show when in pay by link, the user hasn't selected a delivery method */
+"pay-by-link.create-order.error.selected-delivery-method.title" = "A delivery method must be selected";
+/* Title for the navigation bar button that cancel the pay-by-link */
+"pay-by-link.create-order.navigation-bar.leading.cancel" = "Cancel";
+/* The title of the pay by link navigation bar */
+"pay-by-link.create-order.navigation-bar.title" = "Share Pay by Link";
+/* The title appears on the order options section on pay by link create order screen */
+"pay-by-link.create-order.order-options.title" = "Order options";
+/* Text to show on a label that allows the user to edit the product in pay by link */
+"pay-by-link.create-order.product-row.edit-criteria.title" = "Select Criteria";
+/* The text to show when an attribute is required but has not been selected */
+"pay-by-link.create-order.product-row.required-attribute.title" = "Required";
+/* The label for the quantity in each of the items in the curator */
+"pay-by-link.create-order.product.quantity.title" = "Quantity:";
+/* The done button title for choosing delivery methods when accessed from the pay by link form */
+"pay-by-link.delivery-methods.navigationBar.button.done" = "Done";
+/* The title for the delivery methods navigation bar when accessed from the pay by link form */
+"pay-by-link.delivery-methods.navigationBar.title" = "Delivery";
+/* The placeholder for searching in product catalog */
+"product-catalog.search.placeholder" = "Search products";
+/* The title of the button to send payment link in product curator */
+"product-curator.actions.send-payment-link.button.title" = "SEND PAYMENT LINK";
+/* The title of the curator share action */
+"product-curator.actions.share-curator" = "Share Curation";
+/* The title of the button to share products in product curator */
+"product-curator.actions.share-products.button.title" = "SHARE PRODUCTS";
+/* Title for Cancel button in alert asking user if they want to clear the curator */
+"product-curator.alert.clear.button.cancel.title" = "Cancel";
+/* Title for 'Clear' button in alert asking user if they want to clear the curator */
+"product-curator.alert.clear.button.clear.title" = "Clear";
+/* Message for alert asking user if they want to clear the curator */
+"product-curator.alert.clear.message" = "Are you sure you want to remove all the items from the curator?";
+/* Title for alert asking user if they want to clear the curator */
+"product-curator.alert.clear.title" = "Clear the curator?";
+/* The title of edit assets in curator cell */
+"product-curator.cell.edit-assets.title" = "Edit";
+/* The message to show in the toast view when an error occurs clearing the curator */
+"product-curator.clear.toast.error.title" = "An error occurred clearing the curator. Please try again.";
+/* The description of the error view when the curator is empty */
+"product-curator.empty.description" = "You haven’t added any products to the Curator yet. Visit the Product Catalogue to explore and select products.";
+/* The title of the error view when the curator is empty */
+"product-curator.empty.title" = "Curator is empty!";
+/* Title of clear button in product curator */
+"product-curator.navigation-bar.clear.title" = "Clear";
+/* Title of close button in product curator */
+"product-curator.navigation-bar.close.title" = "Close";
+/* Title of navigation bar in product curator */
+"product-curator.navigation-bar.title" = "Curator";
+/* The message to show in the toast view when an error occurs removing an item from the curator */
+"product-curator.remove-item.toast.error.title" = "An error occurred removing this item from the curator. Please try again.";
+/* The title of add to curator action in the action sheet */
+"product-details.actions.add-to-curator" = "Add to Curator";
+/* The toaster error of add to curator action in the action sheet */
+"product-details.actions.add-to-curator.error.title" = "Add to Curator has failed";
+/* The loading message to show when we're adding a product to the curator */
+"product-details.actions.add-to-curator.loading" = "Adding product to curator...";
+/* The title for the notification that shows a product has been added to the curator. */
+"product-details.actions.add-to-curator.notification.title" = "%@ has been added to the curator";
+/* The title of check stock details action in the product actions */
+"product-details.actions.check-stock-details" = "Check Stock Details";
+/* The title of the product share action in the action sheet */
+"product-details.actions.menu.share-product" = "Share Product";
+/* The title of the similar products action in the product actions */
+"product-details.actions.menu.similar-products" = "Find Similar Products";
+/* The title of the pay by link action in the action sheet */
+"product-details.actions.pay-by-link" = "Share Pay by Link";
+/* The title of remove from curator action in the action sheet */
+"product-details.actions.remove-from-curator" = "Remove from Curator";
+/* The toaster error of remove from curator action in the action sheet */
+"product-details.actions.remove-from-curator.error.title" = "Remove from Curator has failed";
+/* The title for the notification that shows a product has been removed from the curator. */
+"product-details.actions.remove-from-curator.notification.title" = "%@ has been removed from the curator";
+/* The title of the product share action in the action sheet */
+"product-details.actions.share-product" = "Share\nProduct";
+/* The title of the similar products action in the product actions */
+"product-details.actions.similar-products" = "Similar\nProducts";
+/* The title of stock privacy action in the action sheet in detail mode */
+"product-details.actions.stockPrivacy.hide" = "Hide Stock Details";
+/* The title of stock privacy action in the action sheet in privacy mode */
+"product-details.actions.stockPrivacy.show" = "Show Stock Details";
+/* The placeholder to show when there is no item selected in the nested attribute row in product details. The placeholder is the attribute title. */
+"product-details.attributes.nested-list.placeholder" = "Select an option";
+/* Title for the navigation bar button that cancel the product attribute selection */
+"product-details.attributes.selection.cancel.title" = "Cancel";
+/* The description to show in product details attribute selection screen */
+"product-details.attributes.selection.description" = "The availability is relevant to your selected criteria:";
+/* The text to show for the done button when selecting an attribute in product details */
+"product-details.attributes.selection.done.title" = "Done";
+/* The subtitle to show for empty attribute items in product details attribute selection screen */
+"product-details.attributes.selection.empty.subtitle" = "The particular criteria combination you've selected does not have a %1$@ option.";
+/* The title to show for empty attribute items in product details attribute selection screen */
+"product-details.attributes.selection.empty.title" = "No option available";
+/* The format to use to display a selected attribute. First placeholder is the attribute title and second is the selected attribute value */
+"product-details.attributes.selection.remove-attribute.format" = "%1$@: %2$@";
+/* The text to show for attribute value when attribute items is empty in product details */
+"product-details.attributes.value-no-items.title" = "N/A";
+/* Title of close button in navigation bar */
+"product-details.navigation-bar.close.title" = "Close";
+/* A text to appear in a toast message when a user copies the product SKU */
+"product-details.product-info.sku-copied.title" = "Product SKU copied";
+/* The title of the similar products button */
+"product-details.similar-products.button.title" = "Similar Products";
+/* The label to show in the product details screen when stock information is displayed */
+"product-details.stock-information.caption.hide" = "Tap to hide stock values";
+/* The caption shown if attributes (size, coulour, material) are missing to check the stock */
+"product-details.stock-information.caption.missing-attributes" = "Please specify criterias to check stock";
+/* The label to show in the product details screen when stock information is behind a privacy control */
+"product-details.stock-information.caption.show" = "Tap to show stock values";
+/* The title to show on the stock details button */
+"product-details.stock-information.details-button.title" = "Check Stock Details";
+/* The format to use when too many colors are available and we have to show a number instead of the colors. */
+"product-list.cell.additional-colors.format" = "+%1$@";
+/* The text to show for the filter done button in product lists */
+"product-list.filter.done.title" = "Done";
+/* The text to show for the sort done button in product lists */
+"product-list.sort.done.title" = "Done";
+/* The text to show for the filter button in product lists */
+"product-list.toolbar.filter.title" = "Filter";
+/* The text to show in the product toolbar while fetching new results */
+"product-list.toolbar.loading.title" = "Updating...";
+/* The text to show in the product list with the number of matched products in the variable */
+"product-list.toolbar.matched-products.title" = "%li matched";
+/* The text to show for the sort button in product lists */
+"product-list.toolbar.sort.title" = "Sort";
+/* The title of the product share navigation bar */
+"product-share.navigationBar.title" = "Share Product";
+/* The subtitle of the product stock empty view */
+"product-stock.empty-view.subtitle" = "Unfortunatley, this product is not available nearby";
+/* The title of the product stock empty view */
+"product-stock.empty-view.title" = "Out of stock";
+/* The product stock last updated title */
+"product-stock.last-updated.title" = "Last updated";
+/* The title of the Product stock string, in the navigation bar */
+"product-stock.navigation-bar.title" = "Stock Details";
+/* Title for the navigation bar button that closes the product stock display */
+"product-stock.navigationBar.leading.done" = "Done";
+/* The title of the label in a product attributes view that will contract the content to its collapsed mode */
+"product.attributes.contract-cta.title" = "Show less";
+/* The title of the label in a product attributes view that will expand the content to its full height */
+"product.attributes.expand-cta.title" = "Show more";
+/* The price is not available it is 'Price On Demand' */
+"product.price.on-demand" = "P.O.D.";
+/* The format to display the score over the maximum score available. The first parameter is the score and the second one is the maximum score. */
+"progress.score.format" = "%1$@/%2$@";
+/* The title of the clear button in the recently searched view */
+"search.recently-searched.clearButton.title" = "Clear";
+/* The help text title in the recently searched view */
+"search.recently-searched.help.title" = "Need help?";
+/* The title in the recently searched view */
+"search.recently-searched.title" = "Recently searched";
+/* Title for the navigation bar button that cancel a selection list */
+"selection-list.navigationBar.leading.cancel" = "Cancel";
+/* The title for clear selection button */
+"selection.clear.button.title" = "Clear Selection";
+/* Title for 'Languages' button in settings */
+"settings.actions.languages.title" = "Languages";
+/* Title for 'logout' button in settings */
+"settings.actions.logout.title" = "Logout";
+/* Title for 'My profile' button in settings */
+"settings.actions.my-profile.title" = "My profile";
+/* Title for 'Themes' button in settings */
+"settings.actions.themes.title" = "Theme";
+/* Cancel button title for alert asking user to confirm they want to log out */
+"settings.logout.alert.button.cancel.title" = "Cancel";
+/* Button title for alert asking user to confirm they want to log out */
+"settings.logout.alert.button.confirm.title" = "Log out";
+/* Message for alert asking user to confirm they want to log out */
+"settings.logout.alert.message" = "Are you sure you want to log out?";
+/* Title for alert asking user to confirm they want to log out */
+"settings.logout.alert.title" = "Logout?";
+/* Title for 'Settings' screen */
+"settings.navigationBar.title" = "Settings";
+/* Title for 'My profile' screen in settings */
+"settings.profile.navigationBar.title" = "My Profile";
+/* The text to show on a toast message in Settings when mail failed to send */
+"settings.toast.error.mail-send-failed.title" = "An error occurred. Try again.";
+/* The text to show on a toast message in Settings when mail is unavailable on your device */
+"settings.toast.error.mail-unavailable.title" = "Mail not available on this device";
+/* The text to show when an email was sent successfuly to the CRM team */
+"settings.toast.success.mail-sent.title" = "Email sent";
+/* A string to show while the SDK records the interaction */
+"share-data.interaction.notice-message.title" = "Recording interaction...";
+/* Placeholder for searching clients in the share data screen */
+"share-data.navigationBar.client-searchbar.placeholder" = "Search clients";
+/* Title for the navigation bar button that cancel the share data screen */
+"share-data.navigationBar.leading.cancel" = "Cancel";
+/* The tab icon title for Appointments */
+"tab.appointments.title" = "Appointments";
+/* The tab icon title for Product catalogue */
+"tab.catalog.title" = "Products";
+/* The tab icon title for Clients */
+"tab.clients.title" = "Clients";
+/* The tab icon title for Dashboard */
+"tab.dashboard.title" = "Dashboard";
+/* The tab icon title for Settings */
+"tab.settings.title" = "Settings";
+/* Empty view subtitle when there are no templates */
+"template-selection.empty.subtitle" = "It seems there are no templates for this language.";
+/* Empty view title when there are no templates */
+"template-selection.empty.title" = "No templates found";
+/* Title in navigation bar for theme selection */
+"theme.navigation-bar.title" = "Theme";
+/* The banner description showing after the timeline event has been deleted */
+"timeline-client-event.appointment-deleted.description" = "Timeline event has been deleted";
+/* The title of the delete button in timeline client event */
+"timeline-client-event.delete-button.title" = "Delete event";
+/* The button title of the confirmation alert when taping to delete an event */
+"timeline-client-event.delete-confirmation-alert.button-title" = "Delete";
+/* The message of the confirmation alert when taping to delete an event */
+"timeline-client-event.delete-confirmation-alert.message" = "Are you sure you want to delete this item?";
+/* The title of the confirmation alert when taping to delete an event */
+"timeline-client-event.delete-confirmation-alert.title" = "Delete event";
+/* The title of the cancel button in timeline client event */
+"timeline-client-event.navigation-bar.leading.cancel" = "Cancel";
+/* The title of the edit button in timeline client event with read mode */
+"timeline-client-event.navigation-bar.trailing.edit" = "Edit";
+/* The title of the save button when creating/editing a timeline client event */
+"timeline-client-event.navigation-bar.trailing.save" = "Save";
+/* Default subtitle to show in an empty timeline */
+"timeline.default.empty.subtitle" = "There are no timeline events";
+/* Default title to show in an empty timeline */
+"timeline.default.empty.title" = "Empty timeline";
+/* The label for SKU (Stock Keeping Unit) */
+"transaction-details.item.properties.sku.label" = "SKU";
+/* A range of two items. The first placeholder is the lower bound and the second is the upper bound. Usually used for time ranges and price ranges. */
+"utilities.range" = "%1$@ - %2$@";

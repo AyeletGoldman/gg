@@ -1,0 +1,6 @@
+framework module Biodag {
+  umbrella header "Biodag-umbrella.h"
+
+  export *
+  module * { export * }
+}

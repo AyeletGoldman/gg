@@ -1,0 +1,6 @@
+framework module MaisonKitAuth {
+  umbrella header "MaisonKitAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}

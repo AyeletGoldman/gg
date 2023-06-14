@@ -1,0 +1,124 @@
+@import url('./sketch.css');
+
+/* Generic styles */
+body, html {
+  margin: 0;
+  padding: 0;
+}
+p, ul, ol, table {
+  margin: 0 0 15px 0;
+}
+li {
+  margin: 0 0 2px 0;
+}
+
+/* Theme styles */
+body {
+  background-color: var(--layer--background--background-color);
+  background-image: var(--layer--background--background-image);
+  background-repeat: var(--layer--background--background-repeat);
+  background-size: var(--layer--background--background-size);
+  opacity: var(--layer--background--opacity);
+  mix-blend-mode: var(--layer--background--mix-blend-mode);
+  border: var(--layer--background--border);
+  box-shadow: var(--layer--background--box-shadow);
+}
+
+p, body {
+  font-family: var(--text--p--font-family);
+  font-size: var(--text--p--font-size);
+  letter-spacing: var(--text--p--letter-spacing);
+  line-height: var(--text--p--line-height);
+  color: var(--text--p--color);
+  text-align: var(--text--p--text-align);
+  vertical-align: var(--text--p--vertical-align);
+  text-decoration: var(--text--p--text-decoration);
+  text-transform: var(--text--p--text-transform);
+  text-shadow: var(--text--p--text-shadow);
+}
+
+strong {
+  font-weight: bold;
+  font-family: var(--text--strong--font-family);
+  font-size: var(--text--strong--font-size);
+  letter-spacing: var(--text--strong--letter-spacing);
+  line-height: var(--text--strong--line-height);
+  color: var(--text--strong--color);
+  text-align: var(--text--strong--text-align);
+  vertical-align: var(--text--strong--vertical-align);
+  text-decoration: var(--text--strong--text-decoration);
+  text-transform: var(--text--strong--text-transform);
+  text-shadow: var(--text--strong--text-shadow);
+}
+
+li {
+  font-family: var(--text--li--font-family);
+  font-size: var(--text--li--font-size);
+  letter-spacing: var(--text--li--letter-spacing);
+  line-height: var(--text--li--line-height);
+  color: var(--text--li--color);
+  text-align: var(--text--li--text-align);
+  vertical-align: var(--text--li--vertical-align);
+  text-decoration: var(--text--li--text-decoration);
+  text-transform: var(--text--li--text-transform);
+  text-shadow: var(--text--li--text-shadow);
+}
+
+table, tr, td {
+  border: none;
+  border-style: hidden;
+  border-width: 0;
+  border-spacing: 0;
+  width: auto;
+}
+
+tr {
+  background-color: var(--layer--tr--background-color);
+  background-image: var(--layer--tr--background-image);
+  background-repeat: var(--layer--tr--background-repeat);
+  background-size: var(--layer--tr--background-size);
+  opacity: var(--layer--tr--opacity);
+  mix-blend-mode: var(--layer--tr--mix-blend-mode);
+  border: var(--layer--tr--border);
+  box-shadow: var(--layer--tr--box-shadow);
+}
+
+tr:first-child td {
+  font-weight: bold;
+  font-family: var(--text--thead--font-family);
+  font-size: var(--text--thead--font-size);
+  letter-spacing: var(--text--thead--letter-spacing);
+  line-height: var(--text--thead--line-height);
+  color: var(--text--thead--color);
+  text-align: var(--text--thead--text-align);
+  vertical-align: var(--text--thead--vertical-align);
+  text-decoration: var(--text--thead--text-decoration);
+  text-transform: var(--text--thead--text-transform);
+  text-shadow: var(--text--thead--text-shadow);
+}
+
+tr:nth-child(even) {
+  background-color: var(--layer--tr-alt--background-color);
+  background-image: var(--layer--tr-alt--background-image);
+  background-repeat: var(--layer--tr-alt--background-repeat);
+  background-size: var(--layer--tr-alt--background-size);
+  opacity: var(--layer--tr-alt--opacity);
+  mix-blend-mode: var(--layer--tr-alt--mix-blend-mode);
+  border: var(--layer--tr-alt--border);
+  box-shadow: var(--layer--tr-alt--box-shadow);
+}
+
+td {
+  padding: 5px 5px 5px 0;
+  background-color: transparent;
+  font-family: var(--text--tbody--font-family);
+  font-size: var(--text--tbody--font-size);
+  letter-spacing: var(--text--tbody--letter-spacing);
+  line-height: var(--text--tbody--line-height);
+  color: var(--text--tbody--color);
+  text-align: var(--text--tbody--text-align);
+  vertical-align: var(--text--tbody--vertical-align);
+  text-decoration: var(--text--tbody--text-decoration);
+  text-transform: var(--text--tbody--text-transform);
+  text-shadow: var(--text--tbody--text-shadow);
+}

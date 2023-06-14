@@ -1,0 +1,6 @@
+framework module MaisonKitUI {
+  umbrella header "MaisonKitUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

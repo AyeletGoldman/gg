@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTH_URL</key>
+	<string>https://lvmhfashion.okta.com/oauth2/aus4r4m2g5aLYaSdr417/v1/authorize</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>fr.lvmh.maison-kit</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>lvmh</string>
+			</array>
+		</dict>
+	</array>
+	<key>CLIENT_ID</key>
+	<string>0oa4r4nxkfYeIWJKN417</string>
+	<key>CLIENT_SECRET</key>
+	<string></string>
+	<key>ENVIRONMENT</key>
+	<string>dev</string>
+	<key>FirebasePlistFilename</key>
+	<string>GoogleService-Info</string>
+	<key>GOOGLE_ANALYTICS_REGISTRATION_WITH_AD_NETWORK_ENABLED</key>
+	<false/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>kakaolink</string>
+		<string>whatsapp</string>
+		<string>weixin</string>
+		<string>lineworks</string>
+		<string>line</string>
+	</array>
+	<key>MAISON</key>
+	<string>lvmh</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>RETURN_URL</key>
+	<string>lvmh://login-success</string>
+	<key>TOKEN_URL</key>
+	<string>https://lvmhfashion.okta.com/oauth2/aus4r4m2g5aLYaSdr417/v1/token</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SF-Pro-Display-Medium.otf</string>
+		<string>Graphik-Semibold (2).otf</string>
+		<string>Graphik-Regular (3).otf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>URL_SCHEME</key>
+	<string>lvmh</string>
+</dict>
+</plist>

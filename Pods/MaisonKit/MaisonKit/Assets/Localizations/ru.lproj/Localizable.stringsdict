@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>client-list.toolbar.matched-clients.title</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@clients@</string>
+      <key>clients</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 клиент</string>
+        <key>few</key>
+        <string>%li клиента</string>
+        <key>many</key>
+        <string>%li клиентов</string>
+        <key>other</key>
+        <string>%li клиентов</string>
+      </dict>
+    </dict>
+    <key>client360.timeline.pay-by-link.number-of-items.format</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@items@</string>
+      <key>items</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 товар</string>
+        <key>few</key>
+        <string>%li товара</string>
+        <key>many</key>
+        <string>%li товаров</string>
+        <key>other</key>
+        <string>%li товаров</string>
+      </dict>
+    </dict>
+    <key>client360.timeline.transaction.number-of-items.format</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@items@</string>
+      <key>items</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 элемент</string>
+        <key>few</key>
+        <string>%li элемента</string>
+        <key>many</key>
+        <string>%li элементов</string>
+        <key>other</key>
+        <string>%li элементов</string>
+      </dict>
+    </dict>
+    <key>list.form-field.selected-clients.number-of-clients</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@clients@</string>
+      <key>clients</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 клиент</string>
+        <key>few</key>
+        <string>%li клиента</string>
+        <key>many</key>
+        <string>%li клиентов</string>
+        <key>other</key>
+        <string>%li клиентов</string>
+      </dict>
+    </dict>
+    <key>notification-center.toolbar.matched-items.title</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@notifications@</string>
+      <key>notifications</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 уведомление</string>
+        <key>few</key>
+        <string>%li уведомлений</string>
+        <key>many</key>
+        <string>%li уведомлений</string>
+        <key>other</key>
+        <string>%li уведомления</string>
+      </dict>
+    </dict>
+    <key>nps.survey-details.transaction.number-of-items.format</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@items@</string>
+      <key>items</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 товар</string>
+        <key>few</key>
+        <string>%li товара</string>
+        <key>many</key>
+        <string>%li товаров</string>
+        <key>other</key>
+        <string>%li товаров</string>
+      </dict>
+    </dict>
+    <key>outreach.template-selection.templates.heading.title</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@templates@</string>
+      <key>templates</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>1 шаблон</string>
+        <key>few</key>
+        <string>%li шаблона</string>
+        <key>many</key>
+        <string>%li шаблонов</string>
+        <key>other</key>
+        <string>%li шаблонов</string>
+      </dict>
+    </dict>
+    <key>product-list.filters.matched-products.title</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@matches@</string>
+      <key>matches</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>Найдено 1 совпадение</string>
+        <key>few</key>
+        <string>Найдено %li совпадения</string>
+        <key>many</key>
+        <string>Найдено %li совпадений</string>
+        <key>other</key>
+        <string>Найдено %li совпадений</string>
+      </dict>
+    </dict>
+    <key>stock-details.check-stock.row.subtitle</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@units@</string>
+      <key>units</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>li</string>
+        <key>one</key>
+        <string>штука</string>
+        <key>few</key>
+        <string>штуки</string>
+        <key>many</key>
+        <string>штук</string>
+        <key>other</key>
+        <string>штук</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>
